@@ -1,4 +1,4 @@
-## Terminologies
+# Terminologies
 
 ---
 
@@ -34,4 +34,9 @@
 	1. Target variable, Dependant variable, Y, Predicted variable, Label 
 7. The values using which we will attempt to predict: 
 	1. Features, Dimension, Independent Variables, Xs, Predictor variable
+8.  Supervised Learning
+	1. There is $Y$ to be predicted 
+	2.  If $Y$ is a number i.e continuous variable then we call it as Regression
+	3.  If $Y$ is a category then it is called classification
+9.  Artificial Neural Network just needed linear algebra and metrics
 
