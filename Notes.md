@@ -30,4 +30,8 @@
 	1. Data patterns are too complex and constantly changing. E.g. weather forecasting.
 	2. We find it hard to express our knowledge about patterns as a program. e.g. Character recognition 
 	3. We do not readily have an algorithm to identify a particular pattern e.g. spam mail detection
-	4. 
+6. The value which we want to predict: 
+	1. Target variable, Dependant variable, Y, Predicted variable, Label 
+7. The values using which we will attempt to predict: 
+	1. Features, Dimension, Independent Variables, Xs, Predictor variable
+
