@@ -98,4 +98,5 @@
          4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
          5. ![NormalDistribution.png](./images/NormalDistribution.png)
          6. Sampling Distribution of Mean and Central Limit Theorem
-	
+      6. Hypothesis Testing
+	      1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
