@@ -64,5 +64,10 @@
 			2. Ordinal - has meaningful order(appraisal rating)
 		2. Numeric(Quantitative)
 			1. Interval - Temperature in Celsius
-				1. 
+				1. ![[Pasted image 20230306142937.png]]
 			2. Ratio - Cost of an item
+	7.  **Descriptive Stats**
+		1.  Central Tendency
+			1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
+			2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
+			3.  Mode: Mode is the most frequently occuring data point in a data set.
