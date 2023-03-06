@@ -69,5 +69,8 @@
 	7.  **Descriptive Stats**
 		1.  Central Tendency
 			1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
+				1. Gets Influenced by the outliers
+				2. Eg: Salaries : 9,12,10,11,8, 130 Lakhs because of the 1.3cr package mean doesn't provide accurate representation
 			2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
 			3.  Mode: Mode is the most frequently occuring data point in a data set.
+		2. 
