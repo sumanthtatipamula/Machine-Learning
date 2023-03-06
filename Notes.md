@@ -84,3 +84,6 @@
 			6. ![IQR.png](./images/IQR.png)
 			7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier 
 			8. Can be used to tell where points are densly packed
+		4.  Variance and Standard deviation
+			1.  Variance is measured as the average of sum of squared difference between each data point(represented by xi) and the mean represented by
+			2. $\$
