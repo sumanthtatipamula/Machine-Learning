@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Day1/Introduction to DS and ML.pdf"
+                "file": "Day1/Basic Statistics.pdf"
               }
             }
           },
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day1/Basic Statistics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day1/Basic Statistics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day1/Basic Statistics.pdf"
+              }
             }
           }
         ]
@@ -152,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "804679de7883f491",
   "lastOpenFiles": [
-    "Day1/Introduction to DS and ML.pdf",
     "Day1/Annotate.md",
+    "Day1/Introduction to DS and ML.pdf",
     "Notes.md",
     "MachineLearning.png",
     "datascience.png"
