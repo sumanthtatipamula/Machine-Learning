@@ -74,6 +74,7 @@
 			2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
 			3.  Mode: Mode is the most frequently occuring data point in a data set.
 		2.  Range: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
+			1. Very sensitive to outliers than mean
 		3.  Inter Quartile Range (IQR) – IQR is the distance between the first and the third quartile.
 			1.  First quartile (Q1) has 25% observation lower than it. 
 			2. Third quartile (Q3) has 75% observation lower than it.
