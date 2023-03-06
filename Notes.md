@@ -48,4 +48,4 @@
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
    1. ![[SupervisedLearning.png]]
-   2. 
+9. 
