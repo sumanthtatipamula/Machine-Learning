@@ -26,26 +26,26 @@
    5. Deep Learning
       1. Subset of machine learning in which artificial neural networks adapt and learn from vast amounts of data
       2. Patterns drawn using neural network.
-5.  ***Uses of ML***
-	1. Data patterns are too complex and constantly changing. E.g. weather forecasting.
-	2. We find it hard to express our knowledge about patterns as a program. e.g. Character recognition 
-	3. We do not readily have an algorithm to identify a particular pattern e.g. spam mail detection
-	4. 
-6.  ***Important Terms***
-	1. The value which we want to predict: 
-		1. Target variable, Dependant variable, Y, Predicted variable, Label 
-	2. The values using which we will attempt to predict: 
-		1. Features, Dimension, Independent Variables, Xs, Predictor variable
-7. ***Classification*** 
-	1. Supervised Learning
-		1. There is $Y$ to be predicted 
-		2.  If $Y$ is a number i.e continuous variable then we call it as Regression
-		3.  If $Y$ is a category then it is called classification
-	2.  UnSupervised Learning
-		1. There is no $Y$ to be predicted
-		2. There is a logical group in data - cluster analysis - market segmentation
-		3.  Dimensionality Reduction
-		4.  Artificial Neural Network just needed linear algebra and metrics
-8. ***Supervised Machine Learning***
-	1. 
-
+5. **_Uses of ML_**
+   1. Data patterns are too complex and constantly changing. E.g. weather forecasting.
+   2. We find it hard to express our knowledge about patterns as a program. e.g. Character recognition
+   3. We do not readily have an algorithm to identify a particular pattern e.g. spam mail detection
+   4.
+6. **_Important Terms_**
+   1. The value which we want to predict:
+      1. Target variable, Dependant variable, Y, Predicted variable, Label
+   2. The values using which we will attempt to predict:
+      1. Features, Dimension, Independent Variables, Xs, Predictor variable
+7. **_Classification_**
+   1. Supervised Learning
+      1. There is $Y$ to be predicted
+      2. If $Y$ is a number i.e continuous variable then we call it as Regression
+      3. If $Y$ is a category then it is called classification
+   2. UnSupervised Learning
+      1. There is no $Y$ to be predicted
+      2. There is a logical group in data - cluster analysis - market segmentation
+      3. Dimensionality Reduction
+      4. Artificial Neural Network just needed linear algebra and metrics
+8. **_Supervised Machine Learning_**
+   1. ![[SupervisedLearning.png]]
+   2. 

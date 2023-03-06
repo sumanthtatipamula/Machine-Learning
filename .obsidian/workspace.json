@@ -21,6 +21,16 @@
             "id": "77cafefa2e1c291c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "SupervisedLearning.png"
+              }
+            }
+          },
+          {
+            "id": "11111e25f4b38371",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes.md",
@@ -30,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,12 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77cafefa2e1c291c",
+  "active": "11111e25f4b38371",
   "lastOpenFiles": [
     "Day1/Basic Statistics.pdf",
+    "SupervisedLearning.png",
+    "Notes.md",
     "Day1/Annotate.md",
     "Day1/Introduction to DS and ML.pdf",
-    "Notes.md",
     "MachineLearning.png",
     "datascience.png"
   ]
