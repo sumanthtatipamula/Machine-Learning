@@ -64,4 +64,5 @@
 			2. Ordinal - has meaningful order(appraisal rating)
 		2. Numeric(Quantitative)
 			1. Interval - Temperature in Celsius
+				1. 
 			2. Ratio - Cost of an item
