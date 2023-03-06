@@ -11,16 +11,14 @@
             "id": "804679de7883f491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Day1/Introduction to DS and ML.pdf"
               }
             }
           },
           {
-            "id": "a090b9a059339e1e",
+            "id": "77cafefa2e1c291c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Day1/Introduction to DS and ML.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Day1/Introduction to DS and ML.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Day1/Introduction to DS and ML.pdf"
               }
             }
           }
@@ -160,8 +158,8 @@
   },
   "active": "804679de7883f491",
   "lastOpenFiles": [
-    "Day1/Introduction to DS and ML.pdf",
     "Notes.md",
+    "Day1/Introduction to DS and ML.pdf",
     "MachineLearning.png",
     "datascience.png"
   ]
