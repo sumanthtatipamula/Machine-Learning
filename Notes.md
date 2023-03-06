@@ -100,4 +100,4 @@
          6. Sampling Distribution of Mean and Central Limit Theorem
       6. Hypothesis Testing
 	      1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
-	      2.  ![Hypothesis.png](./Hypothesis.png)
+	      2.  ![Hypothesis.png](./images/Hypothesis.png)
