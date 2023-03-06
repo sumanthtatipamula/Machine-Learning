@@ -153,7 +153,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "floating": {
@@ -193,9 +194,10 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Images/Symbols.png",
-    "Notes.md",
+    "Images/NormalDistribution.png",
     "Images/SupervisedLearning.png",
+    "Notes.md",
+    "Images/Symbols.png",
     "Images/Numeric.png",
     "Images/IQR.png",
     "Images",

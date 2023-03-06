@@ -96,3 +96,6 @@
             1. For continuous variables we can't list all values
          3. Area of the curve gives probability.
          4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
+         5. ![NormalDistribution.png](./images/NormalDistribution.png)
+         6. Sampling Distribution of Mean and Central Limit Theorem
+	
