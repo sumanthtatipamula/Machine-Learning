@@ -92,3 +92,6 @@
 			3. ![Symbols.png](./images/Symbols.png)
 		5. Normal Curve
 			1. Outputs of a process vary due to various factors that come into play during the process
+			2. Probability Distribution - Listing out all possible values along with their probabilities
+				1. For continuous variables we can't list all values
+			3. Area of the curve gives probability.
