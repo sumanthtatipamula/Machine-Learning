@@ -26,4 +26,8 @@
    5. Deep Learning
       1. Subset of machine learning in which artificial neural networks adapt and learn from vast amounts of data
       2. Patterns drawn using neural network.
-5. 
+5.  ***Uses of ML***
+	1. Data patterns are too complex and constantly changing. E.g. weather forecasting.
+	2. We find it hard to express our knowledge about patterns as a program. e.g. Character recognition 
+	3. We do not readily have an algorithm to identify a particular pattern e.g. spam mail detection
+	4. 
