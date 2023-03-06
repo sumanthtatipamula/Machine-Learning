@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfd850f0118d6c4b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/SupervisedLearning.png"
+              }
+            }
           }
         ]
       }
@@ -183,15 +193,17 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Pasted image 20230306142937.png",
-    "Day1/Basic Statistics.pdf",
-    "SupervisedLearning.png",
+    "Images/SupervisedLearning.png",
+    "Images/Numeric.png",
+    "Images/IQR.png",
     "Notes.md",
+    "Images",
+    "Day1/Basic Statistics.pdf",
     "Algorithms",
     "Untitled.ipynb",
     "Day1/Annotate.md",
     "Day1/Introduction to DS and ML.pdf",
-    "MachineLearning.png",
-    "datascience.png"
+    "Images/MachineLearning.png",
+    "Images/datascience.png"
   ]
 }

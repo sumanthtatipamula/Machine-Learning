@@ -6,7 +6,7 @@
    1. It is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes , algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data
       1. Unstructured data = data make sense, but we can't pin point exact location to get particular information.
    2. is a "Concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.
-   3. ![What is Data Science](./datascience.png)
+   3. ![What is Data Science](./images/datascience.png)
 2. **_Why Data Science_** ?
    1. Businesses looking to use data to gain competitive advantage
    2. Technological advancements - data storage, processing power, clouse based storage and computing
@@ -14,7 +14,7 @@
    4. The ability to take data - to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it - that's going to be ahugely important skill in the next decades. - Hal Varian.
 3. **_What is Machine Learning ?_**
    1. Machine learning is a study of algorithms and statistical models that computer systems use in order to perform a specific taks effectively without being explicitly programmed, relying on patterns instead.
-   2. ![[MachineLearning.png]](./MachineLearning.png)
+   2. ![MachineLearning.png](./MachineLearning.png)
    3. In libraries there are mathematical principles to generate equations for the given scenario
 4. **_Artificial Intelligence vs Machine Learning vs Deep Learning_**
    1. Making machine intelliegent by any means
@@ -47,7 +47,7 @@
       3. Dimensionality Reduction
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
-   1. ![[SupervisedLearning.png]]
+   1. ![SupervisedLearning.png](./images/SupervisedLearning.png)
 9. ***Basic Statistics***
 	1. The collection of all data points is the **population** or the **universe** data for a process
 	2. A subset of points drawn from a population is called **sample**
@@ -64,7 +64,7 @@
 			2. Ordinal - has meaningful order(appraisal rating)
 		2. Numeric(Quantitative)
 			1. Interval - Temperature in Celsius
-				1. ![[Pasted image 20230306142937.png]]
+				1. ![[Numeric.png]]
 			2. Ratio - Cost of an item
 	7.  **Descriptive Stats**
 		1.  Central Tendency
@@ -80,4 +80,6 @@
 			2. Third quartile (Q3) has 75% observation lower than it.
 			3. Median is also called second quartile (Q2)
 			4. Application of IQR will be finding outliers.
-			5. Max length of whisker  = 1.5 * IQR
+			5. Max length of whisker  = 1.5 * IQR 
+			6. ![IQR.png](./images/IQR.png)
+			7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier 
