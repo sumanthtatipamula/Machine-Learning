@@ -46,4 +46,6 @@
 		2. There is a logical group in data - cluster analysis - market segmentation
 		3.  Dimensionality Reduction
 		4.  Artificial Neural Network just needed linear algebra and metrics
+8. ***Supervised Machine Learning***
+	1. 
 
