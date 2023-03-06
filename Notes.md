@@ -85,5 +85,7 @@
 			7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier 
 			8. Can be used to tell where points are densly packed
 		4.  Variance and Standard deviation
-			1.  Variance is measured as the average of sum of squared difference between each data point(represented by xi) and the mean represented by
-			2. $\$
+			1. Variance is measured as the average of sum of squared difference between each data point(represented by xi) and the mean represented by
+				1. N - consistent formula
+				2. N - 1 - unbiased formula
+			2. Standard deviation is one of the most popular measure of spread. It is the square root of the variance.
