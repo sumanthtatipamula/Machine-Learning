@@ -48,4 +48,16 @@
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
    1. ![[SupervisedLearning.png]]
-9. 
+9. Basic Statistics
+	1. The collection of all data points is the **population** or the **universe** data for a process
+	2. A subset of points drawn from a population is called **sample**
+	3. Measurement of a characteristic of sample is called **Statistic**
+	4. Measurement of a characteristic of population is called **Parameter**
+	5.  Types of Data
+		1. Categorical - Preferred band
+		2. Numeric
+			1. Discrete - Number of items sold
+			2. Continuous - Weight of a product
+	6.  Measurement Scale
+		1. Categorical (Qualitative)
+		2. Numeric
