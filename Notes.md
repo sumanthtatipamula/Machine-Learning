@@ -48,50 +48,51 @@
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
    1. ![SupervisedLearning.png](./images/SupervisedLearning.png)
-9. ***Basic Statistics***
-	1. The collection of all data points is the **population** or the **universe** data for a process
-	2. A subset of points drawn from a population is called **sample**
-	3. Measurement of a characteristic of sample is called **Statistic**
-	4. Measurement of a characteristic of population is called **Parameter**
-	5.  Types of Data
-		1. Categorical - Preferred band
-		2. Numeric
-			1. Discrete - Number of items sold
-			2. Continuous - Weight of a product
-	6.  Measurement Scale
-		1. Categorical (Qualitative)
-			1. Nominal - doesn't have order(gender)
-			2. Ordinal - has meaningful order(appraisal rating)
-		2. Numeric(Quantitative)
-			1. Interval - Temperature in Celsius
-				1. ![Numeric.png](./images/Numeric.png)
-			2. Ratio - Cost of an item
-	7.  **Descriptive Stats**
-		1. Central Tendency
-			1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
-				1. Gets Influenced by the outliers
-				2. Eg: Salaries : 9,12,10,11,8, 130 Lakhs because of the 1.3cr package mean doesn't provide accurate representation
-			2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
-			3.  Mode: Mode is the most frequently occuring data point in a data set.
-		2. Range: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
-			1. Very sensitive to outliers than mean
-		3. Inter Quartile Range (IQR) – IQR is the distance between the first and the third quartile.
-			1. First quartile (Q1) has 25% observation lower than it. 
-			2. Third quartile (Q3) has 75% observation lower than it.
-			3. Median is also called second quartile (Q2)
-			4. Application of IQR will be finding outliers.
-			5. Max length of whisker  = 1.5 * IQR 
-			6. ![IQR.png](./images/IQR.png)
-			7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier 
-			8. Can be used to tell where points are densly packed
-		4. Variance and Standard deviation
-			1. Variance is measured as the average of sum of squared difference between each data point(represented by xi) and the mean represented by
-				1. N - consistent formula
-				2. N - 1 - unbiased formula
-			2. Standard deviation is one of the most popular measure of spread. It is the square root of the variance.
-			3. ![Symbols.png](./images/Symbols.png)
-		5. Normal Curve
-			1. Outputs of a process vary due to various factors that come into play during the process
-			2. Probability Distribution - Listing out all possible values along with their probabilities
-				1. For continuous variables we can't list all values
-			3. Area of the curve gives probability.
+9. **_Basic Statistics_**
+   1. The collection of all data points is the **population** or the **universe** data for a process
+   2. A subset of points drawn from a population is called **sample**
+   3. Measurement of a characteristic of sample is called **Statistic**
+   4. Measurement of a characteristic of population is called **Parameter**
+   5. Types of Data
+      1. Categorical - Preferred band
+      2. Numeric
+         1. Discrete - Number of items sold
+         2. Continuous - Weight of a product
+   6. Measurement Scale
+      1. Categorical (Qualitative)
+         1. Nominal - doesn't have order(gender)
+         2. Ordinal - has meaningful order(appraisal rating)
+      2. Numeric(Quantitative)
+         1. Interval - Temperature in Celsius
+            1. ![Numeric.png](./images/Numeric.png)
+         2. Ratio - Cost of an item
+   7. **Descriptive Stats**
+      1. Central Tendency
+         1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
+            1. Gets Influenced by the outliers
+            2. Eg: Salaries : 9,12,10,11,8, 130 Lakhs because of the 1.3cr package mean doesn't provide accurate representation
+         2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
+         3. Mode: Mode is the most frequently occuring data point in a data set.
+      2. Range: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
+         1. Very sensitive to outliers than mean
+      3. Inter Quartile Range (IQR) – IQR is the distance between the first and the third quartile.
+         1. First quartile (Q1) has 25% observation lower than it.
+         2. Third quartile (Q3) has 75% observation lower than it.
+         3. Median is also called second quartile (Q2)
+         4. Application of IQR will be finding outliers.
+         5. Max length of whisker = 1.5 \* IQR
+         6. ![IQR.png](./images/IQR.png)
+         7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier
+         8. Can be used to tell where points are densly packed
+      4. Variance and Standard deviation
+         1. Variance is measured as the average of sum of squared difference between each data point(represented by xi) and the mean represented by
+            1. N - consistent formula
+            2. N - 1 - unbiased formula
+         2. Standard deviation is one of the most popular measure of spread. It is the square root of the variance.
+         3. ![Symbols.png](./images/Symbols.png)
+      5. Normal Curve
+         1. Outputs of a process vary due to various factors that come into play during the process
+         2. Probability Distribution - Listing out all possible values along with their probabilities
+            1. For continuous variables we can't list all values
+         3. Area of the curve gives probability.
+         4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
