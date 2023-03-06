@@ -64,7 +64,7 @@
 			2. Ordinal - has meaningful order(appraisal rating)
 		2. Numeric(Quantitative)
 			1. Interval - Temperature in Celsius
-				1. ![[Numeric.png]]
+				1. ![Numeric.png](./images/Numeric.png)
 			2. Ratio - Cost of an item
 	7.  **Descriptive Stats**
 		1.  Central Tendency
@@ -83,3 +83,4 @@
 			5. Max length of whisker  = 1.5 * IQR 
 			6. ![IQR.png](./images/IQR.png)
 			7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier 
+			8. Can be used to tell where points are densly packed
