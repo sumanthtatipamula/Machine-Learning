@@ -91,4 +91,4 @@
 			2. Standard deviation is one of the most popular measure of spread. It is the square root of the variance.
 			3. ![Symbols.png](./images/Symbols.png)
 		5. Normal Curve
-			1. 
+			1. Outputs of a process vary due to various factors that come into play during the process
