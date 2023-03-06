@@ -76,6 +76,8 @@
 		2.  Range: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
 			1. Very sensitive to outliers than mean
 		3.  Inter Quartile Range (IQR) – IQR is the distance between the first and the third quartile.
-			1.  First quartile (Q1) has 25% observation lower than it. 
+			1. First quartile (Q1) has 25% observation lower than it. 
 			2. Third quartile (Q3) has 75% observation lower than it.
 			3. Median is also called second quartile (Q2)
+			4. Application of IQR will be finding outliers.
+			5. Max length of whisker  = 1.5 * IQR
