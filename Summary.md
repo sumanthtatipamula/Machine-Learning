@@ -149,7 +149,7 @@
 		 10.  <mark style="background: #FF5582A6;">Training Accuracy</mark> :  Testing train data for accuracy `classifier.score(X_train, y_train)`
 			 1. Why Training accuracy may not be 100 % because in K neighbours 1 neighbour will be itself. so if we try with k = 1 accuracy will be 100 % because each row maps to one in trained(train == test) 
 		 11. Confusion Matrix:
-			 1. ![[Pasted image 20230307145059.png]] `metrics.confusion_matrix(y_test, y_predict)` 
+			 1. ![[Pasted image 20230307145059.png]] `metrics.confusion_matrix(y_test, y_predict)` `print(metrics.classification_report(y_test, y_predict))`
 			 2. Classification accuracy = correct predictions / total predictions
 			 3.  Precision is the proportion of the predicted positive cases that were correct.
 				 1. Precision of C = 15 / (15+1)
