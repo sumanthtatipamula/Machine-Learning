@@ -113,36 +113,37 @@
 
 
 # Algorithms
- ### Supervised Learning
- ![[SupervisedLearning 2.png]]
+
+ ## Supervised Learning
+	 ![[SupervisedLearning 2.png]]
 	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is done randomly.
- 1.  ***K Nearest Neighbors***
-	 1. Commonly used for classification
-	 2. Can also be used for regression
-	 3. Classification is determined based on a majority vote of the nearest neighbors of each point
-	 4. Though it is a supervised learning method, it is a ‘lazy learner’, i.e. does not construct a model using training data.
-	 5. Not suitable if the data is too noisy or the target classes do not have clear demarcation in terms of attribute values.
-	 6. Suitable for classification where items in a class tend to be fairly homogenous on the values of attributes
-	 7.  When classification is <mark style="background: #FF5582A6;">binary</mark> we can avoid tie by giving K an odd number.
-		 1. ![KNN.png](KNN.png)
-	 8.  Distance Calculations
-		 1. Euclidean distance $= \sqrt{ (x_{2} - x_{1}) ^{2} + (y_{2} - y_{2})^{2} }$
-		 2. Manhattan / Taxi Distance $=  | x_{2} - x_{1}| + |y_{2} - y_{1} |$
-		 3.  Minkowski = $(| x_{2} - x_{1}|^{p} + |y_{2} - y_{1} |^{p} + \dots) ^{1 / p}$
-			 1. p = 1 manhattan
-			 2. p = 2 Euclidean
-		 4. Mahalanobis distance
-		 5. Matching Distance(for Boolean Data) = $\frac{number\  of\ non\  equal\  dimensions}{number\  of\  dimensions}$
-	 9.  We need to bring data to common scale(using min-max or Z)
-		 1. ![[KNN_Example1.png]]
-		 2.  Here if we see the distance 1 and 3 are less so they appear to be similar but with domain knowledge 1 and 2 will be same as they have same age.
-		 3. In these cases distances could lead incorrect results to avoid that we use standardisation 
-			 1.  Z- score $=\frac{x_{i} - \bar{x} }{S}$
-			 2.  Min - max scaler = $\frac{X - min}{max -min}$ values between will  be between 0 to 1
-			 3.  After applying min - max scaler ![[min-max-scaler.png]]
-			 4. scaler.fit_transform(x_train)
-				 1. ![[FitTransform.png]]
-				 2. for test we should never do fit_transform. only transform to be used and the mean and std dev will be used from Xtrain
-			 5.  ![[knn_snippet.png]] Classifier.fit doesn't create any model. It just map X_train and Y_train
+	 2.  ***K Nearest Neighbors***
+		 1. Commonly used for classification
+		 2. Can also be used for regression
+		 3. Classification is determined based on a majority vote of the nearest neighbors of each point
+		 4. Though it is a supervised learning method, it is a ‘lazy learner’, i.e. does not construct a model using training data.
+		 5. Not suitable if the data is too noisy or the target classes do not have clear demarcation in terms of attribute values.
+		 6. Suitable for classification where items in a class tend to be fairly homogenous on the values of attributes
+		 7.  When classification is <mark style="background: #FF5582A6;">binary</mark> we can avoid tie by giving K an odd number.
+			 1. ![KNN.png](KNN.png)
+		 8.  Distance Calculations
+			 1. Euclidean distance $= \sqrt{ (x_{2} - x_{1}) ^{2} + (y_{2} - y_{2})^{2} }$
+			 2. Manhattan / Taxi Distance $=  | x_{2} - x_{1}| + |y_{2} - y_{1} |$
+			 3.  Minkowski = $(| x_{2} - x_{1}|^{p} + |y_{2} - y_{1} |^{p} + \dots) ^{1 / p}$
+				 1. p = 1 manhattan
+				 2. p = 2 Euclidean
+			 4. Mahalanobis distance
+			 5. Matching Distance(for Boolean Data) = $\frac{number\  of\ non\  equal\  dimensions}{number\  of\  dimensions}$
+		 9.  We need to bring data to common scale(using min-max or Z)
+			 1. ![[KNN_Example1.png]]
+			 2.  Here if we see the distance 1 and 3 are less so they appear to be similar but with domain knowledge 1 and 2 will be same as they have same age.
+			 3. In these cases distances could lead incorrect results to avoid that we use standardisation 
+				 1.  Z- score $=\frac{x_{i} - \bar{x} }{S}$
+				 2.  Min - max scaler = $\frac{X - min}{max -min}$ values between will  be between 0 to 1
+				 3.  After applying min - max scaler ![[min-max-scaler.png]]
+				 4. scaler.fit_transform(x_train)
+					 1. ![[FitTransform.png]]
+					 2. For test we should never do fit_transform. only transform to be used and the mean and std dev will be used from Xtrain because we want neighbours for test to be same as of train.
+				 5.  ![[knn_snippet.png]] Classifier.fit doesn't create any model. It just map X_train and Y_train
 
         
