@@ -145,5 +145,6 @@
 					 1. ![[FitTransform.png]]
 					 2. For test we should never do fit_transform. only transform to be used and the mean and std dev will be used from Xtrain because we want neighbours for test to be same as of train.
 				 5.  ![[knn_snippet.png]] Classifier.fit doesn't create any model. It just map X_train and Y_train
+		 10.  <mark style="background: #FF5582A6;">Training Accuracy</mark> :  testing train data for accuracy `classifier.score(X_train, y_train)`
 
         
