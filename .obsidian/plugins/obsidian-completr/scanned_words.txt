@@ -164,6 +164,7 @@ Poj
 Pxwm
 PLj
 Part
+Precision
 IHDR
 IDATx
 IU
@@ -901,6 +902,9 @@ pXSD
 pGd
 pYwh
 part
+predictions
+proportion
+positive
 TY
 TU
 TN
@@ -1080,6 +1084,7 @@ TpuP
 TGU
 TqL
 Tli
+Training
 tH
 tl
 tN
@@ -1270,6 +1275,9 @@ testing
 transform
 train
 test
+try
+trained
+total
 vw
 vh
 vSM
@@ -1601,6 +1609,7 @@ wNAbB
 wYM
 wLFbA
 weZP
+were
 ZmZ
 ZJ
 ZOE
@@ -2272,6 +2281,7 @@ acXh
 asj
 auX
 aqHK
+accuracy
 ja
 jj
 jx
@@ -2766,6 +2776,8 @@ CBB
 CBO
 CLf
 CIP
+Classifier
+Confusion
 nGA
 nM
 ns
@@ -2929,6 +2941,8 @@ nxl
 nHk
 niD
 never
+neighbours
+neighbour
 QC
 QD
 QL
@@ -3435,6 +3449,9 @@ mmkJ
 mTgo
 mTw
 mkO
+map
+may
+maps
 kb
 kVv
 kTg
@@ -4595,6 +4612,7 @@ Ldd
 Lhh
 Lxp
 Leh
+Linear
 WA
 Wxp
 WQ
@@ -5906,6 +5924,7 @@ rxCB
 rlYP
 rows
 randomly
+row
 AV
 AJ
 AI
@@ -6095,6 +6114,7 @@ AoZ
 AsjC
 ARE
 Abn
+Accuracy
 Bf
 BB
 Bm
@@ -6593,6 +6613,7 @@ RQa
 RLU
 RTeMO
 RLv
+Recall
 zjP
 zq
 zPPp
@@ -6896,6 +6917,8 @@ iBYGh
 iHIc
 igJ
 iUx
+itself
+identified
 Yj
 Yq
 YH
@@ -8442,6 +8465,9 @@ cgC
 ckb
 ctc
 cdM
+create
+correct
+correctly
 FhMr
 Fl
 FL

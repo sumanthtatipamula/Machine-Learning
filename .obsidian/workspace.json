@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "46ebaa5e330677d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860369a375158271",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/Linear Regression.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -148,47 +165,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "floating": {
-    "id": "f70ff298e69c7848",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e779acc8e080f46",
-        "type": "window",
-        "children": [
-          {
-            "id": "c3464617fc10973a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dfd850f0118d6c4b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notes/KNN.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -361,
-        "y": 945,
-        "width": 1210,
-        "height": 836,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
-    "images/ConfusionMatrix.png",
     "images/knn_snippet.png",
     "images/FitTransform.png",
     "Summary.md",
+    "Notes/Linear Regression.pdf",
+    "images/ConfusionMatrix.png",
     "KNN/KNN_IRIS.ipynb",
     "KNN/KNN_Tshirt_1-Copy1.ipynb",
     "images/SupervisedLearning 2.png",
@@ -199,14 +182,12 @@
     "Notes/Introduction to DS and ML.pdf",
     "Notes/KNN.pdf",
     "Notes/Basic Statistics.pdf",
-    "Notes/Linear Regression.pdf",
     "images/SupervisedLearning.png",
     "Notes",
     "Day1/KNN.pdf",
     "Day1/Linear Regression.pdf",
     "KNN/Tshirt.csv",
     "images/TcketResolution.png",
-    "images/UniformDistribution.png",
     "Day1/Annotate.md"
   ]
 }

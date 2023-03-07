@@ -159,5 +159,7 @@
 				 1. Recall for B = 19 / (19+1)
 				 2. Recall for A,C = 15 / 15
 			 5. F1 score = $\frac{2*(Recall * Precision)}{(Recall + Precision)}$
+	 3.  ***Linear Regression***
+		 1. 
 
         
