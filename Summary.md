@@ -172,10 +172,12 @@
 		 4. How equation of line is formed ![[BestFitLine.png]]
 		 5. Measuring Performance of Linear Equation
 			 1. For linear regression the performance measurement is about how close to the actual prediction is.
-			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$
+			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$ 
 			 3. The proportion of total variation (SST) that is explained by the regression (SSR) is known as the Coefficient of Determination.
-				 1. $R^{2} = \frac{SSR}{SSE}$
+				 1. $R^{2} = \frac{SSR}{SST}$
 				 2. Value of R will lie between 0 and 1
-				 3. ![[Pasted image 20230307155601.png]]
+				 3. ![[Linear_Regression_Performance.png]]
+				 4. Coefficient of Determination (R2 ). Higher value of is R2 indicates better accuracy
+				 5. Mean Squared Error (MSE). Lower value of MSE indicates better accuracy
 
         

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11111e25f4b38371",
+            "id": "5c79f5ab21fcdb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,16 @@
                 "file": "Summary.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "376425c641e6f962",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/Linear Regression.pdf"
               }
             }
           }
@@ -148,23 +158,23 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "11111e25f4b38371",
+  "active": "5c79f5ab21fcdb85",
   "lastOpenFiles": [
-    "Linear_Regression_Performance.png",
-    "Pasted image 20230307153726.png.md",
+    "Notes/Linear Regression.pdf",
     "Summary.md",
+    "Pasted image 20230307155934.png",
+    "images/Linear_Regression_Performance.png",
+    "Pasted image 20230307153726.png.md",
     "images/BestFitLine.png",
     "images/correlation.png",
     "images/knn_snippet.png",
     "images/FitTransform.png",
-    "Notes/Linear Regression.pdf",
     "images/ConfusionMatrix.png",
     "KNN/KNN_IRIS.ipynb",
     "KNN/KNN_Tshirt_1-Copy1.ipynb",
     "images/SupervisedLearning 2.png",
     "images/SupervisedLearning 1.png",
     "images/min-max-scaler.png",
-    "images/KNN_Example1.png",
     "Notes/Introduction to DS and ML.pdf",
     "Notes/KNN.pdf",
     "Notes/Basic Statistics.pdf",
