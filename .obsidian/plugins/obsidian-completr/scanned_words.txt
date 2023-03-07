@@ -238,6 +238,7 @@ given
 group
 gender
 gives
+guess
 pHYs
 pvvF
 pJ
@@ -326,6 +327,8 @@ play
 possible
 probabilities
 probability
+proposition
+phenomenon
 TY
 TU
 TN
@@ -392,6 +395,8 @@ Types
 Temperature
 Tendency
 Third
+Theorem
+Testing
 tH
 tl
 tN
@@ -671,6 +676,7 @@ first
 finding
 formula
 factors
+facts
 lmm
 lh
 lYu
@@ -818,6 +824,7 @@ ascending
 also
 average
 along
+attempts
 ja
 jj
 jx
@@ -915,6 +922,7 @@ humans
 hard
 have
 has
+hypothesis
 CF
 Ccan
 CL
@@ -1034,6 +1042,7 @@ number
 no
 needed
 numbers
+natural
 QC
 QD
 QL
@@ -1321,6 +1330,8 @@ explicit
 express
 extreme
 each
+educated
+explain
 Vm
 Vmp
 VU
@@ -1594,6 +1605,7 @@ Label
 Lakhs
 Length
 Listing
+Limit
 WA
 Wxp
 WQ
@@ -1708,6 +1720,7 @@ HaD
 HKKS
 HWe
 Hal
+Hypothesis
 ow
 ob
 oB
@@ -2799,6 +2812,7 @@ Stats
 Salaries
 Standard
 Symbols
+Sampling
 ck
 cF
 ckk
@@ -2982,6 +2996,7 @@ Numeric
 Number
 Nominal
 Normal
+NormalDistribution
 üw
 üy
 öd

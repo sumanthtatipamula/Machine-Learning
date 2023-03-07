@@ -157,42 +157,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "floating": {
-    "id": "b38a8539b4c8ad87",
-    "type": "floating",
-    "children": [
-      {
-        "id": "562e90bdc208c088",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c06b7cca9679bdf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "804679de7883f491",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Day1/Basic Statistics.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -417,
-        "y": 890,
-        "width": 1211,
-        "height": 837,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fa6f874c7b77fc9f",
+  "active": "11111e25f4b38371",
   "lastOpenFiles": [
     "Images/Hypothesis.png",
     "Images/NormalDistribution.png",
