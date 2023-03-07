@@ -141,8 +141,8 @@
 			 2.  Min - max scaler = $\frac{X - min}{max -min}$ values between will  be between 0 to 1
 			 3.  After applying min - max scaler ![[min-max-scaler.png]]
 			 4. scaler.fit_transform(x_train)
-				 1. ![[Pasted image 20230307125225.png]]
+				 1. ![[FitTransform.png]]
 				 2. for test we should never do fit_transform. only transform to be used and the mean and std dev will be used from Xtrain
-			 5. 
+			 5.  ![[knn_snippet.png]] Classifier.fit doesn't create any model. It just map X_train and Y_train
 
         

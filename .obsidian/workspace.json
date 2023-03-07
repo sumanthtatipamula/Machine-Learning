@@ -185,12 +185,13 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
+    "images/knn_snippet.png",
+    "images/FitTransform.png",
+    "Summary.md",
     "KNN/KNN_IRIS.ipynb",
     "KNN/KNN_Tshirt_1-Copy1.ipynb",
-    "Pasted image 20230307125225.png",
     "images/SupervisedLearning 2.png",
     "images/SupervisedLearning 1.png",
-    "Summary.md",
     "images/min-max-scaler.png",
     "images/KNN_Example1.png",
     "images/KNN.png",
@@ -203,10 +204,8 @@
     "Day1/KNN.pdf",
     "Day1/Linear Regression.pdf",
     "KNN/Tshirt.csv",
-    "KNN/KNN_Vis.ipynb",
     "images/TcketResolution.png",
     "images/UniformDistribution.png",
-    "images/ProbabilityDistribution.png",
     "Day1/Annotate.md"
   ]
 }
