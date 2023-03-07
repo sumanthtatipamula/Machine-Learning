@@ -11,9 +11,11 @@
             "id": "11111e25f4b38371",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Introduction to DS and ML.pdf"
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Introduction to DS and ML.pdf",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Introduction to DS and ML.pdf",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Introduction to DS and ML.pdf"
+                "file": "Summary.md"
               }
             }
           }
@@ -183,13 +185,13 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Notes/Basic Statistics.pdf",
+    "Notes/Introduction to DS and ML.pdf",
     "Summary.md",
     "Notes/KNN.pdf",
+    "Notes/Basic Statistics.pdf",
     "Notes/Linear Regression.pdf",
     "Images/SupervisedLearning.png",
     "Notes",
-    "Notes/Introduction to DS and ML.pdf",
     "Day1/KNN.pdf",
     "Day1/Linear Regression.pdf",
     "KNN/Tshirt.csv",

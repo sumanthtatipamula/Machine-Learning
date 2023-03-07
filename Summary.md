@@ -115,4 +115,9 @@
  1. K Nearest Neighbors
 	 1. Commonly used for classification
 	 2. Can also be used for regression
+	 3. Classification is determined based on a majority vote of the nearest neighbors of each point
+	 4. Though it is a supervised learning method, it is a ‘lazy learner’, i.e. does not construct a model using training data.
+	 5. Not suitable if the data is too noisy or the target classes do not have clear demarcation in terms of attribute values.
+	 6. Suitable for classification where items in a class tend to be fairly homogenous on the values of attributes
+	 7. 
  
