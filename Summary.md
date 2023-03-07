@@ -46,7 +46,7 @@
       3. Dimensionality Reduction
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
-   1. ![SupervisedLearning.png](SupervisedLearning.png)
+   1. ![SupervisedLearning.png](images/SupervisedLearning.png)
 9. **_Basic Statistics_**
    1. The collection of all data points is the **population** or the **universe** data for a process
    2. A subset of points drawn from a population is called **sample**
@@ -113,7 +113,10 @@
 
 # Algorithms
 
- 1. ***K Nearest Neighbors***
+ ## Supervised Learning
+ 1.  ![[SupervisedLearning 1.png]]
+	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is 
+ 2. ***K Nearest Neighbors***
 	 1. Commonly used for classification
 	 2. Can also be used for regression
 	 3. Classification is determined based on a majority vote of the nearest neighbors of each point
