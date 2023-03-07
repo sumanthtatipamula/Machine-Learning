@@ -1,3 +1,4 @@
+
 # Terminologies
 
 ---
@@ -112,11 +113,10 @@
 
 
 # Algorithms
-
  ## Supervised Learning
- 1.  ![[SupervisedLearning 1.png]]
-	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is 
- 2. ***K Nearest Neighbors***
+ ![[SupervisedLearning 2.png]]
+	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is done randomly.
+ 1.  ***K Nearest Neighbors***
 	 1. Commonly used for classification
 	 2. Can also be used for regression
 	 3. Classification is determined based on a majority vote of the nearest neighbors of each point
