@@ -182,6 +182,6 @@
 					 1. $=  \frac{SSE}{n}$
 			 5. RMSE = $\sqrt{ MSE }$
 			 6. Mean Absolute Error $= \frac{\sum{Error}}{n}$
-		 6.  I
+		 6.  If p > 0.05 the column is significant ![[hypothesis_LR.png]]
 
         
