@@ -125,5 +125,5 @@
 	 8.  Distance Calculations
 		 1. Euclidean distance $= \sqrt{ (x_{2} - x_{1}) ^{2} + (y_{2} - y_{2})^{2} }$
 		 2. Manhattan / Taxi Distance $=  | x_{2} - x_{1}| + |y_{2} - y_{1} |$
-		 3. 
+		 3.  Minkowski = $| x_{2} - x_{1}| + |y_{2} - y_{1} |^{p} + \dots$
         
