@@ -160,6 +160,17 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
+    "Introduction to DS and ML.pdf",
+    "Basic Statistics.pdf",
+    "KNN.pdf",
+    "Linear Regression.pdf",
+    "Day1/KNN.pdf",
+    "Day1/Linear Regression.pdf",
+    "KNN/Tshirt.csv",
+    "KNN/KNN_Vis.ipynb",
+    "KNN/KNN_Tshirt_1.ipynb",
+    "KNN/Iris.csv",
+    "KNN",
     "Images/TcketResolution.png",
     "Images/SupervisedLearning.png",
     "Notes.md",
@@ -170,12 +181,7 @@
     "Images/Symbols.png",
     "Images/Numeric.png",
     "Images/IQR.png",
-    "Images",
-    "Day1/Basic Statistics.pdf",
-    "Algorithms",
-    "Untitled.ipynb",
     "Day1/Annotate.md",
-    "Day1/Introduction to DS and ML.pdf",
     "Images/MachineLearning.png"
   ]
 }
