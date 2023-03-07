@@ -6,7 +6,7 @@
    1. It is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes , algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data
       1. Unstructured data = data make sense, but we can't pin point exact location to get particular information.
    2. is a "Concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.
-   3. ![What is Data Science](./images/datascience.png)
+   3. ![What is Data Science](datascience.png)
 2. **_Why Data Science_** ?
    1. Businesses looking to use data to gain competitive advantage
    2. Technological advancements - data storage, processing power, clouse based storage and computing
@@ -14,7 +14,7 @@
    4. The ability to take data - to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it - that's going to be ahugely important skill in the next decades. - Hal Varian.
 3. **_What is Machine Learning ?_**
    1. Machine learning is a study of algorithms and statistical models that computer systems use in order to perform a specific taks effectively without being explicitly programmed, relying on patterns instead.
-   2. ![MachineLearning.png](./images/MachineLearning.png)
+   2. ![MachineLearning.png](MachineLearning.png)
    3. In libraries there are mathematical principles to generate equations for the given scenario
 4. **_Artificial Intelligence vs Machine Learning vs Deep Learning_**
    1. Making machine intelliegent by any means
@@ -46,7 +46,7 @@
       3. Dimensionality Reduction
       4. Artificial Neural Network just needed linear algebra and metrics
 8. **_Supervised Machine Learning_**
-   1. ![SupervisedLearning.png](./images/SupervisedLearning.png)
+   1. ![SupervisedLearning.png](SupervisedLearning.png)
 9. **_Basic Statistics_**
    1. The collection of all data points is the **population** or the **universe** data for a process
    2. A subset of points drawn from a population is called **sample**
@@ -63,7 +63,7 @@
          2. Ordinal - has meaningful order(appraisal rating)
       2. Numeric(Quantitative)
          1. Interval - Temperature in Celsius
-            1. ![Numeric.png](./images/Numeric.png)
+            1. ![Numeric.png](Numeric.png)
          2. Ratio - Cost of an item
    7. **Descriptive Stats**
       1. <mark style="background: #FF5582A6;">Central Tendency</mark>
@@ -80,7 +80,7 @@
          3. Median is also called second quartile (Q2)
          4. Application of IQR will be finding outliers.
          5. Max length of whisker = 1.5 \* IQR
-         6. ![IQR.png](./images/IQR.png)
+         6. ![IQR.png](IQR.png)
          7. Any point which is less than Q1 - Max Length Whisker or Q3 + Max Length Whisker is a Outlier
          8. Can be used to tell where points are densly packed
       4. Variance and Standard deviation
@@ -88,23 +88,23 @@
             1. N - consistent formula
             2. N - 1 - unbiased formula
          2. Standard deviation is one of the most popular measure of spread. It is the square root of the variance.
-         3. ![Symbols.png](./images/Symbols.png)
+         3. ![Symbols.png](Symbols.png)
       5. Normal Curve
          1. Outputs of a process vary due to various factors that come into play during the process
          2. Probability Distribution - Listing out all possible values along with their probabilities
             1. For continuous variables we can't list all values
-               1. ![UniformDistribution.png](./images/UniformDistribution.png)
+               1. ![UniformDistribution.png](UniformDistribution.png)
                2. This graph is said to be uniform Distribution
-            2. ![ProbabilityDistribution.png](./images/ProbabilityDistribution.png)
+            2. ![ProbabilityDistribution.png](ProbabilityDistribution.png)
          3. Area of the curve gives probability.
          4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
-         5. ![NormalDistribution.png](./images/NormalDistribution.png)
+         5. ![NormalDistribution.png](NormalDistribution.png)
          6. Sampling Distribution of Mean and Central Limit Theorem
          7. Z tells how many standard deviation away from mean.
       6. Hypothesis Testing
          1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
-         2. ![TcketResolution.png](./images/TcketResolution.png)
-         3. ![Hypothesis.png](./images/Hypothesis.png)
+         2. ![TcketResolution.png](TcketResolution.png)
+         3. ![Hypothesis.png](Hypothesis.png)
 
 
 
@@ -121,7 +121,7 @@
 	 5. Not suitable if the data is too noisy or the target classes do not have clear demarcation in terms of attribute values.
 	 6. Suitable for classification where items in a class tend to be fairly homogenous on the values of attributes
 	 7.  When classification is <mark style="background: #FF5582A6;">binary</mark> we can avoid tie by giving K an odd number.
-		 1. ![KNN.png](./images/KNN.png)
+		 1. ![KNN.png](KNN.png)
 	 8.  Distance Calculations
 		 1. Euclidean distance $= \sqrt{ (x_{2} - x_{1}) ^{2} + (y_{2} - y_{2})^{2} }$
 		 2. Manhattan / Taxi Distance $=  | x_{2} - x_{1}| + |y_{2} - y_{1} |$
