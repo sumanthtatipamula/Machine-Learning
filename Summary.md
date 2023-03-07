@@ -174,5 +174,8 @@
 			 1. For linear regression the performance measurement is about how close to the actual prediction is.
 			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$
 			 3. The proportion of total variation (SST) that is explained by the regression (SSR) is known as the Coefficient of Determination.
+				 1. $R^{2} = \frac{SSR}{SSE}$
+				 2. Value of R will lie between 0 and 1
+				 3. ![[Pasted image 20230307155601.png]]
 
         
