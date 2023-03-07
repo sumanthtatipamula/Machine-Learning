@@ -182,5 +182,6 @@
 					 1. $=  \frac{SSE}{n}$
 			 5. RMSE = $\sqrt{ MSE }$
 			 6. Mean Absolute Error $= \frac{\sum{Error}}{n}$
+		 6.  I
 
         
