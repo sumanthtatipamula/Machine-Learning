@@ -4740,6 +4740,7 @@ Mos
 MckbI
 MBH
 Measuring
+MSE
 LMLQ
 LTe
 LLMY
@@ -4912,6 +4913,7 @@ LXw
 LFR
 Loss
 LuYY
+Lower
 WA
 Wxp
 WQ
@@ -8598,6 +8600,7 @@ EdB
 EbY
 ETj
 Equation
+Error
 SrN
 SX
 SG
@@ -8795,6 +8798,7 @@ Squares
 SSJ
 SST
 SSR
+Squared
 ck
 cF
 ckk

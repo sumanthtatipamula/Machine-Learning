@@ -178,6 +178,8 @@
 				 2. Value of R will lie between 0 and 1
 				 3. ![[Linear_Regression_Performance.png]]
 				 4. Coefficient of Determination (R2 ). Higher value of is R2 indicates better accuracy
-				 5. Mean Squared Error (MSE). Lower value of MSE indicates better accuracy
+			 4. Mean Squared Error (MSE). Lower value of MSE indicates better accuracy
+					 1. $=  \frac{SSE}{n}$
+			 5.  RMSE = $\\sqrt{  }$
 
         
