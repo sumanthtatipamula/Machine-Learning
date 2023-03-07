@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -164,7 +165,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "11111e25f4b38371",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
     "Pasted image 20230307153726.png.md",
     "Summary.md",
