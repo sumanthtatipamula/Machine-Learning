@@ -160,6 +160,9 @@
 				 2. Recall for A,C = 15 / 15
 			 5. F1 score = $\frac{2*(Recall * Precision)}{(Recall + Precision)}$
 	 3.  ***Linear Regression***
-		 1. 
+		 1. The term "linear" in the name “linear regression” refers to the fact that the method models data with linear combination of the explanatory (independent) variables.
+		 2.  Covariance:
+			 1. measures the join variability between two numerical variables (X and Y).
+			 2. $Cov(x, y) = \frac{\sum{(x_{i} - \bar{x}) * (y_{i} - \bar{y})}{n - 1}$
 
         
