@@ -130,4 +130,9 @@
 			 2. p = 2 Euclidean
 		 4. Mahalanobis distance
 		 5. Matching Distance(for Boolean Data) = $\frac{number\  of\ non\  equal\  dimensions}{number\  of\  dimensions}$
+	 9.  Drawbacks
+		 1. ![[KNN_Example1.png]]
+		 2.  Here if we see the distance 1 and 3 are less so they appear to be similar but with domain knowledge 1 and 2 will be same as they have same age.
+		 3. In these cases distances could lead incorrect results to avoid that we use standardisation 
+			 1.  Z
         
