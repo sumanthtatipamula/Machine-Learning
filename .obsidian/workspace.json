@@ -185,8 +185,9 @@
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Images/KNN_Example1.png",
+    "Images/min-max-scaler.png",
     "Summary.md",
+    "Images/KNN_Example1.png",
     "Images/KNN.png",
     "Notes/Introduction to DS and ML.pdf",
     "Notes/KNN.pdf",
@@ -205,7 +206,6 @@
     "Images/Hypothesis.png",
     "Images/NormalDistribution.png",
     "Images/Symbols.png",
-    "Images/Numeric.png",
     "Day1/Annotate.md"
   ]
 }
