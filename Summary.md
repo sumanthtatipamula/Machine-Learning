@@ -180,6 +180,7 @@
 				 4. Coefficient of Determination (R2 ). Higher value of is R2 indicates better accuracy
 			 4. Mean Squared Error (MSE). Lower value of MSE indicates better accuracy
 					 1. $=  \frac{SSE}{n}$
-			 5.  RMSE = $\\sqrt{  }$
+			 5. RMSE = $\sqrt{ MSE }$
+			 6. Mean Absolute Error $= \frac{\sum{Error}}{n}$
 
         
