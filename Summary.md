@@ -107,12 +107,6 @@
          2. ![TcketResolution.png](TcketResolution.png)
          3. ![Hypothesis.png](Hypothesis.png)
 
-
-
-
-
-
-
 # Algorithms
 
  ## Supervised Learning
@@ -161,7 +155,7 @@
 			 5. F1 score = $\frac{2*(Recall * Precision)}{(Recall + Precision)}$
 	 3.  ***Linear Regression***
 		 1. The term "linear" in the name “linear regression” refers to the fact that the method models data with linear combination of the explanatory (independent) variables.
-		 2.  Covariance:
+		 2.  *Covariance*:
 			 1. measures the join variability between two numerical variables (X and Y).
 			 2. $Cov(x, y) = \frac{\sum{(x_{i} - \bar{x}) * (y_{i} - \bar{y})}}{n - 1}$
 				 1. If Y increases with X then cov(x,y) > 0
@@ -170,5 +164,9 @@
 				 1. Value lies between -1 and 1
 				 2.  $r = r_{{xy}} = \frac{Cov(x,y)}{S_{x} * S_{{y}}}$
 				 3. ![[correlation.png]]
+				 4. Practically +1 or -1 or 0 is impossible
+				 5. Value nearer to -1 or 1 indicates stronger correlation 
+		 3.  Linear regression fits a line to build a model. There are infinite number of lines that can be drawn through the training points. Which line should we consider as the model
+			 1. The line with the least value total sum of squared prediction errors (in diagram shown as SSE) is considered as best fit line. This is called Cost Function or Loss Function
 
         
