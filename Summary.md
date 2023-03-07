@@ -167,6 +167,8 @@
 				 4. Practically +1 or -1 or 0 is impossible
 				 5. Value nearer to -1 or 1 indicates stronger correlation 
 		 3.  Linear regression fits a line to build a model. There are infinite number of lines that can be drawn through the training points. Which line should we consider as the model
-			 1. The line with the least value total sum of squared prediction errors (in diagram shown as SSE) is considered as best fit line. This is called Cost Function or Loss Function
+			 1. The line with the least value total sum of squared prediction errors (in diagram shown as SSE) is considered as <mark style="background: #FFF3A3A6;">best fit line.</mark> This is called Cost Function or Loss Function = $\sum{error ^{2}}$
+			 2. Actual Y - Predicted Y is error
+			 3. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{predicted }$
 
         
