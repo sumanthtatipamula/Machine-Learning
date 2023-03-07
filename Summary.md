@@ -129,5 +129,5 @@
 			 1. p = 1 manhattan
 			 2. p = 2 Euclidean
 		 4. Mahalanobis distance
-		 5. Matching Distance(for Boolean Data) = $number of non equal dimensions / number of dimensions$
+		 5. Matching Distance(for Boolean Data) = $\frac{number\  of\ non\  equal\  dimensions}{number\  of\  dimensions}$
         
