@@ -154,17 +154,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Images/UniformDistribution.png",
+    "Images/TcketResolution.png",
+    "Images/SupervisedLearning.png",
     "Notes.md",
+    "Images/UniformDistribution.png",
     "Images/ProbabilityDistribution.png",
     "Images/Hypothesis.png",
     "Images/NormalDistribution.png",
-    "Images/SupervisedLearning.png",
     "Images/Symbols.png",
     "Images/Numeric.png",
     "Images/IQR.png",
@@ -174,7 +176,6 @@
     "Untitled.ipynb",
     "Day1/Annotate.md",
     "Day1/Introduction to DS and ML.pdf",
-    "Images/MachineLearning.png",
-    "Images/datascience.png"
+    "Images/MachineLearning.png"
   ]
 }

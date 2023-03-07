@@ -103,4 +103,5 @@
          7. Z tells how many standard deviation away from mean.
       6. Hypothesis Testing
          1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
-         2. ![Hypothesis.png](./images/Hypothesis.png)
+         2. ![TcketResolution.png](./images/)
+         3. ![Hypothesis.png](./images/Hypothesis.png)
