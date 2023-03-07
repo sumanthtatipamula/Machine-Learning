@@ -163,6 +163,12 @@
 		 1. The term "linear" in the name “linear regression” refers to the fact that the method models data with linear combination of the explanatory (independent) variables.
 		 2.  Covariance:
 			 1. measures the join variability between two numerical variables (X and Y).
-			 2. $Cov(x, y) = \frac{\sum{(x_{i} - \bar{x}) * (y_{i} - \bar{y})}{n - 1}$
+			 2. $Cov(x, y) = \frac{\sum{(x_{i} - \bar{x}) * (y_{i} - \bar{y})}}{n - 1}$
+				 1. If Y increases with X then cov(x,y) > 0
+				 2. If Y decreases with X then cov(x, y) > 0
+			 3. Coefficient of correlation measures the strength of a linear relationship netween two variables (X and Y)
+				 1. Value lies between -1 and 1
+				 2.  $r = r_{{xy}} = \frac{Cov(x,y)}{S_{x} * S_{{y}}}$
+				 3. ![[correlation.png]]
 
         

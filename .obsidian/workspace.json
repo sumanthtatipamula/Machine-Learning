@@ -165,11 +165,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "11111e25f4b38371",
   "lastOpenFiles": [
+    "images/correlation.png",
+    "Summary.md",
     "images/knn_snippet.png",
     "images/FitTransform.png",
-    "Summary.md",
     "Notes/Linear Regression.pdf",
     "images/ConfusionMatrix.png",
     "KNN/KNN_IRIS.ipynb",
@@ -187,7 +188,6 @@
     "Day1/KNN.pdf",
     "Day1/Linear Regression.pdf",
     "KNN/Tshirt.csv",
-    "images/TcketResolution.png",
     "Day1/Annotate.md"
   ]
 }
