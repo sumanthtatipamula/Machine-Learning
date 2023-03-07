@@ -142,6 +142,7 @@
 			 3.  After applying min - max scaler ![[min-max-scaler.png]]
 			 4. scaler.fit_transform(x_train)
 				 1. ![[Pasted image 20230307125225.png]]
-				 2. for test we should never do fit_transform. only transform to be used and the mean an 
+				 2. for test we should never do fit_transform. only transform to be used and the mean and std dev will be used from Xtrain
+			 5. 
 
         
