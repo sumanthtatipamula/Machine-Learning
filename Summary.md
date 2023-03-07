@@ -113,7 +113,7 @@
 
 
 # Algorithms
- ## Supervised Learning
+ ### Supervised Learning
  ![[SupervisedLearning 2.png]]
 	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is done randomly.
  1.  ***K Nearest Neighbors***
