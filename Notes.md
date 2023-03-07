@@ -66,15 +66,15 @@
             1. ![Numeric.png](./images/Numeric.png)
          2. Ratio - Cost of an item
    7. **Descriptive Stats**
-      1. Central Tendency
+      1. <mark style="background: #FF5582A6;">Central Tendency</mark>
          1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
             1. Gets Influenced by the outliers
             2. Eg: Salaries : 9,12,10,11,8, 130 Lakhs because of the 1.3cr package mean doesn't provide accurate representation
          2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
          3. Mode: Mode is the most frequently occuring data point in a data set.
-      2. Range: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
+      2. <mark style="background: #FF5582A6;">Range</mark>: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
          1. Very sensitive to outliers than mean
-      3. Inter Quartile Range (IQR) – IQR is the distance between the first and the third quartile.
+      3. <mark style="background: #FF5582A6;">Inter Quartile Range (IQR) </mark>– IQR is the distance between the first and the third quartile.
          1. First quartile (Q1) has 25% observation lower than it.
          2. Third quartile (Q3) has 75% observation lower than it. $3 * (n + 1) / 4$
          3. Median is also called second quartile (Q2)
@@ -93,6 +93,9 @@
          1. Outputs of a process vary due to various factors that come into play during the process
          2. Probability Distribution - Listing out all possible values along with their probabilities
             1. For continuous variables we can't list all values
+	            1. ![UniformDistribution.png](./images/UniformDistribution.png)
+	            2. This graph is said to be uniform Distribution
+            2. ![ProbabilityDistribution.png](./images/ProbabilityDistribution.png)
          3. Area of the curve gives probability.
          4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
          5. ![NormalDistribution.png](./images/NormalDistribution.png)
