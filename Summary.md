@@ -123,5 +123,7 @@
 	 7.  When classification is <mark style="background: #FF5582A6;">binary</mark> we can avoid tie by giving K an odd number.
 		 1. ![KNN.png](./images/KNN.png)
 	 8.  Distance Calculations
-		 1. Euclidean distance $\\sqrt{ (x_{2} ) }$
+		 1. Euclidean distance $= \sqrt{ (x_{2} - x_{1}) ^{2} + (y_{2} - y_{2})^{2} }$
+		 2. Manhattan / Taxi Distance $=  | x_{2} - x_{1}| + |y_{2} - y_{1} |$
+		 3. 
         
