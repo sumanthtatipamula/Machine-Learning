@@ -105,3 +105,14 @@
          1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
          2. ![TcketResolution.png](./images/TcketResolution.png)
          3. ![Hypothesis.png](./images/Hypothesis.png)
+
+
+
+
+
+# Algorithms
+
+ 1. K Nearest Neighbors
+	 1. Commonly used for classification
+	 2. Can also be used for regression
+ 

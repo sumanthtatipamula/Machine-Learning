@@ -11,21 +11,9 @@
             "id": "11111e25f4b38371",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd850f0118d6c4b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/SupervisedLearning.png"
+                "file": "Notes/Introduction to DS and ML.pdf"
               }
             }
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes/Introduction to DS and ML.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes/Introduction to DS and ML.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Notes/Introduction to DS and ML.pdf"
               }
             }
           }
@@ -158,22 +146,56 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
+  "floating": {
+    "id": "f70ff298e69c7848",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e779acc8e080f46",
+        "type": "window",
+        "children": [
+          {
+            "id": "c3464617fc10973a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfd850f0118d6c4b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Notes/KNN.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -361,
+        "y": 945,
+        "width": 1210,
+        "height": 836,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "11111e25f4b38371",
   "lastOpenFiles": [
-    "Introduction to DS and ML.pdf",
-    "Basic Statistics.pdf",
-    "KNN.pdf",
-    "Linear Regression.pdf",
+    "Notes/Basic Statistics.pdf",
+    "Summary.md",
+    "Notes/KNN.pdf",
+    "Notes/Linear Regression.pdf",
+    "Images/SupervisedLearning.png",
+    "Notes",
+    "Notes/Introduction to DS and ML.pdf",
     "Day1/KNN.pdf",
     "Day1/Linear Regression.pdf",
     "KNN/Tshirt.csv",
     "KNN/KNN_Vis.ipynb",
     "KNN/KNN_Tshirt_1.ipynb",
-    "KNN/Iris.csv",
-    "KNN",
     "Images/TcketResolution.png",
-    "Images/SupervisedLearning.png",
-    "Notes.md",
     "Images/UniformDistribution.png",
     "Images/ProbabilityDistribution.png",
     "Images/Hypothesis.png",
