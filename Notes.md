@@ -14,7 +14,7 @@
    4. The ability to take data - to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it - that's going to be ahugely important skill in the next decades. - Hal Varian.
 3. **_What is Machine Learning ?_**
    1. Machine learning is a study of algorithms and statistical models that computer systems use in order to perform a specific taks effectively without being explicitly programmed, relying on patterns instead.
-   2. ![MachineLearning.png](./MachineLearning.png)
+   2. ![MachineLearning.png](./images/MachineLearning.png)
    3. In libraries there are mathematical principles to generate equations for the given scenario
 4. **_Artificial Intelligence vs Machine Learning vs Deep Learning_**
    1. Making machine intelliegent by any means
@@ -67,10 +67,10 @@
          2. Ratio - Cost of an item
    7. **Descriptive Stats**
       1. <mark style="background: #FF5582A6;">Central Tendency</mark>
-         1. Mean: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
+         1. <mark style="background: #FFF3A3A6;">Mean</mark>: Arithmetic mean of numbers. Add the observations and divide by count of the observations. Mean is affected by extreme values.
             1. Gets Influenced by the outliers
             2. Eg: Salaries : 9,12,10,11,8, 130 Lakhs because of the 1.3cr package mean doesn't provide accurate representation
-         2. Median: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
+         2. <mark style="background: #FFF3A3A6;">Median</mark>: When observations are sorted in the ascending order, the middle observation is median. If we have n observations, the (n + 1)/2 th obervation is median. The median can be an observation or between two observations.
          3. Mode: Mode is the most frequently occuring data point in a data set.
       2. <mark style="background: #FF5582A6;">Range</mark>: It is the difference between the maximum and minimum values in a data set. Affected by extreme values
          1. Very sensitive to outliers than mean
@@ -93,13 +93,14 @@
          1. Outputs of a process vary due to various factors that come into play during the process
          2. Probability Distribution - Listing out all possible values along with their probabilities
             1. For continuous variables we can't list all values
-	            1. ![UniformDistribution.png](./images/UniformDistribution.png)
-	            2. This graph is said to be uniform Distribution
+               1. ![UniformDistribution.png](./images/UniformDistribution.png)
+               2. This graph is said to be uniform Distribution
             2. ![ProbabilityDistribution.png](./images/ProbabilityDistribution.png)
          3. Area of the curve gives probability.
          4. Standard Normal Distribution is one where mean = 0 and standard deviation = 1
          5. ![NormalDistribution.png](./images/NormalDistribution.png)
          6. Sampling Distribution of Mean and Central Limit Theorem
+         7. Z tells how many standard deviation away from mean.
       6. Hypothesis Testing
-	      1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
-	      2.  ![Hypothesis.png](./images/Hypothesis.png)
+         1. A hypothesis is an educated guess or proposition that attempts to explain a set of facts or natural phenomenon.
+         2. ![Hypothesis.png](./images/Hypothesis.png)
