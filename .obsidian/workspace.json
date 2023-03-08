@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "376425c641e6f962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71a3b0e17989bfe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasted image 20230308102417.png.md",
+                "file": "Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,8 +148,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "376425c641e6f962",
+  "active": "71a3b0e17989bfe3",
   "lastOpenFiles": [
+    "images/GradientDescent.png",
     "Pasted image 20230308102417.png.md",
     "Summary.md",
     "images/LRTrainingAccuracy.png",
@@ -185,7 +174,6 @@
     "images/correlation.png",
     "images/knn_snippet.png",
     "images/FitTransform.png",
-    "images/ConfusionMatrix.png",
     "Day1/Annotate.md"
   ]
 }
