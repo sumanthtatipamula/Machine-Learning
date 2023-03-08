@@ -247,7 +247,9 @@
 			 1. Max_Depth: Is the maximum length of a path from root to leaf. see above Image for reference
 			 2. Min_Sample_Split : Before split check the number of records in a node.
 				 1. ![[min_sample_split.png]]
-			 3. Min_Sample_Leaf : After the split check 
+			 3. Min_Sample_Leaf : After the split check the number of records in each child node.
+				 1. ![[min_leaf_split.png]]
+			 4. max_leaf_nodes = maximum number of leaf nodes in a tree.
 			
 
         
