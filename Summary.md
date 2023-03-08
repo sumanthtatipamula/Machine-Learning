@@ -170,6 +170,7 @@
 			 1. The line with the least value total sum of squared prediction errors (in diagram shown as SSE) is considered as <mark style="background: #FFF3A3A6;">best fit line.</mark> This is called Cost Function or Loss Function = $\sum{(actual - predicted) ^{2}}$
 			 2. Actual Y - Predicted Y is error
 		 4. How equation of line is formed ![[BestFitLine.png]]
+			 1. Gradient Descent:
 		 5. Measuring Performance of Linear Equation
 			 1. For linear regression the performance measurement is about how close to the actual prediction is.
 			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$ 
