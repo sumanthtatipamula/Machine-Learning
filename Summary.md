@@ -132,7 +132,7 @@
 		 9.  We need to bring data to common scale(using min-max or Z)
 			 1. ![[KNN_Example1.png]]
 			 2.  Here if we see the distance 1 and 3 are less so they appear to be similar but with domain knowledge 1 and 2 will be same as they have same age.
-			 3. In these cases distances could lead incorrect results to avoid that we use standardisation 
+			 3. In these cases distances could lead incorrect results to avoid that we use standardisation (i.e columns data is in different scale)
 				 1.  Z- score $=\frac{x_{i} - \bar{x} }{S}$
 				 2.  Min - max scaler = $\frac{X - min}{max -min}$ values between will  be between 0 to 1
 				 3.  After applying min - max scaler ![[min-max-scaler.png]]
@@ -143,7 +143,7 @@
 		 10.  <mark style="background: #FF5582A6;">Training Accuracy</mark> :  Testing train data for accuracy `classifier.score(X_train, y_train)`
 			 1. Why Training accuracy may not be 100 % because in K neighbours 1 neighbour will be itself. so if we try with k = 1 accuracy will be 100 % because each row maps to one in trained(train == test) 
 		 11. Confusion Matrix:
-			 1. ![[Pasted image 20230307145059.png]] `metrics.confusion_matrix(y_test, y_predict)` `print(metrics.classification_report(y_test, y_predict))`
+			 1. ![[ConfusionMatrix.png]] `metrics.confusion_matrix(y_test, y_predict)` `print(metrics.classification_report(y_test, y_predict))`
 			 2. Classification accuracy = correct predictions / total predictions
 			 3.  Precision is the proportion of the predicted positive cases that were correct.
 				 1. Precision of C = 15 / (15+1)
