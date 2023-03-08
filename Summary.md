@@ -238,7 +238,8 @@
 		 9. In the above image decision tree has more than 2 children, but in actual decision  tree it should be only 2 children.
 			 1. Categorical Variable Encoding
 				 1. ![[CategoricalEncoding.png]]
-				 2. First level Split ![[TreeConstructWithEncoding.png]] 
+				 2. First level Split ![[TreeConstructWithEncoding.png]]
+				 3. ![[SplitonNumeric.png]]
 			
 
         
