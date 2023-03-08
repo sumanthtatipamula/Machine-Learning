@@ -201,6 +201,8 @@
 		 6. Optimization for  equation of line
 			 1. Maximise Likelihood =  $\prod^{1}_{n} p_{i}^{y_{{i}}} * (1 - p_{{i}} ^{(1 - y_{{i}})})$
 				 1. ![[LRHeartProblem.png]]
+				 2. Since P values lies between 0 and 1 product results in lots of Zeros to avoid that we use 
+			 2.  Maximise Log(likelihood) = $\sum(y_{{i}})$
 			
 
         
