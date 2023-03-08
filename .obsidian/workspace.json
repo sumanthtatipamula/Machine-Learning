@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "e57a7bc1c88c4d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e6ba4d8580f7c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/Decision_Tree.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -150,8 +167,9 @@
   },
   "active": "71a3b0e17989bfe3",
   "lastOpenFiles": [
-    "images/HyperParameterTuning.png",
+    "Notes/Decision_Tree.pdf",
     "Summary.md",
+    "images/HyperParameterTuning.png",
     "images/min_leaf_split.png",
     "images/min_sample_split.png",
     "Pasted image 20230308162745.png",
@@ -165,7 +183,6 @@
     "Pasted image 20230308143750.png",
     "Algorithms/Decision_Tree/AB5CEC20",
     "Algorithms/Decision_Tree/~$Entr_Calc.xlsx",
-    "Notes/Decision_Tree.pdf",
     "Algorithms/Logistic_Regression/F23E4C20",
     "Algorithms/Logistic_Regression/37E44C20",
     "Algorithms/Logistic_Regression/~$Sigmoid Function shape.xlsx",

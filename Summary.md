@@ -256,7 +256,9 @@
 		 1. There is disadvantage with decision tree, they are too much sensitive to data.
 		 2. *Ensemble Techniques*:
 			 1. Build All possible and let them do prediction, whichever performs better we pick that.
-			 2. 
+			 2. Combining the outputs of several classifiers may reduce the risk of selecting a poorly performing Classifier
+		 3. *Bootstrap Sampling*:
+			 1. Generate new 
 			
 
         
