@@ -223,7 +223,8 @@
 		 4. Algorithm:
 			 1. Tree creation splits data into subsets and subsets into further smaller subsets.
 			 2. The algorithm stops splitting data when data within the subsets are sufficiently homogenous or some other stopping criterion is met.
-			 3. After executing all the decision functions from Root Node to Leaf Node, the class of a data point is decided by the leaf node to which it reaches
+			 3. After executing all the decision functions from Root Node to Leaf Node, the class of a data point is decided by the leaf node to which it reaches. 
+				 1. Then predict based on majority class.
 		 5. Decision Tree algorithm learns through the measure of impurity of data in a node.
 			 1. Entropy = $\sum^{1}_{c}(-p_{{i}} * log(p_{{i}}))$
 			 2. Entropy ranges from 0 to 1
