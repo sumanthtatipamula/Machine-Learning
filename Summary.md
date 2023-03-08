@@ -209,6 +209,7 @@
 			 4. If p(cutoff) >= 0.5 then predict Y = 1 else predict Y = 0. Cutoff can be changed manually.
 		 7. Stratify = returns training and test subsets that have the same proportions of class labels as the input dataset.
 			 1. Use it only for classification not for regression
+		 8. Scaling is required for logistic regression becuase of Regularisation
 			
 
         
