@@ -216,7 +216,8 @@
 			 1. Nodes are decision points
 				 1. Root Node: Representing Original Data
 				 2. Branch Node: representing a decision function
-				 3. Leaf Node or Pure Node: (holds the result of all previous functions that flow to it).
+				 3. Leaf Node : (holds the result of all previous functions that flow to it).
+				 4. Pure Node : It is a leaf node with entropy 0
 			 2. Branches are result of decision function
 		 3. Algorithm:
 			 1. Tree creation splits data into subsets and subsets into further smaller subsets.
@@ -227,7 +228,7 @@
 			 2. Entropy ranges from 0 to 1
 			 3. Entropy = 0 means 100% information
 			 4. Entropy =  1 means maximum uncertainity or impurity
-		 5. ![[DecisionTree.png]]
+		 5. ![[DecisionTree1.png]]
 			 1. Entropy = 
 			
 
