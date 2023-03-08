@@ -202,7 +202,9 @@
 			 1. Maximise Likelihood =  $\prod^{1}_{n} p_{i}^{y_{{i}}} * (1 - p_{{i}} ^{(1 - y_{{i}})})$
 				 1. ![[LRHeartProblem.png]]
 				 2. Since P values lies between 0 and 1 product results in lots of Zeros to avoid that we use 
-			 2.  Maximise Log(likelihood) = $\sum(y_{{i}})$
+			 2.  Maximise Log(likelihood) = $\sum(y_{{i}}\log(P) + (1 - y_{{i}})* \log(1 - P))$
+			 3.  Solving Min log loss gives best $b_{0}$ and $b_{1}$
+			 4. If p(cutoff) >= 0.5 then predict Y = 1 else predict Y = 0. Cutoff can be changed manually.
 			
 
         
