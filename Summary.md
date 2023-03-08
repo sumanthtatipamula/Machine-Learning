@@ -193,7 +193,8 @@
 		 8.  Scaling is not required because every column has it's own coefficient, the performance will not change with or without.
 		 9. If multi collinearity exists then we need to use VIF, LASSO regression, PCA, Adjusted R-squared
 	 4. ***Logistic Regression***
-		 1. 
+		 1.  It uses Sigmoic function to make probabilistic prediction. Probability P that a data point belongs to a class for a given value x
+		 2.  Probability Value lies between 0 and 1
 			
 
         
