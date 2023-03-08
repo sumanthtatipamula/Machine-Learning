@@ -241,8 +241,13 @@
 				 1. ![[CategoricalEncoding.png]]
 				 2. First level Split ![[TreeConstructWithEncoding.png]]
 				 3. ![[SplitonNumeric.png]]
-		 10. More the info gain and more the records passing through it, more the importance `dt_model.feature_importances_`
-		 11. 
+		 10. More the info gain and more the records passing through it, more the importance `dt_model.feature_importances`
+		 11. ![[DecisionTreeFit.png]]
+		 12. Decision Tree Parameters
+			 1. Max_Depth: Is the maximum length of a path from root to leaf. see above Image for reference
+			 2. Min_Sample_Split : Before split check the number of records in a node.
+				 1. ![[min_sample_split.png]]
+			 3. Min_Sample_Leaf : After the split check 
 			
 
         
