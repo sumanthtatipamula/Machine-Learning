@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1342435d6b562c63",
+        "type": "tabs",
+        "children": [
           {
             "id": "e6833dbf242c9f2d",
             "type": "leaf",
@@ -29,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -96,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Decision_Tree.pdf",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Decision_Tree.pdf",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Decision_Tree.pdf"
+                "file": "Summary.md"
               }
             }
           }
@@ -159,7 +165,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "e6833dbf242c9f2d",
+  "active": "71a3b0e17989bfe3",
   "lastOpenFiles": [
     "Notes/Decision_Tree.pdf",
     "Summary.md",
@@ -178,7 +184,6 @@
     "Algorithms/Statistics/Statistics.ipynb",
     "Algorithms/Statistics",
     "Algorithms/KNN/Tshirt.csv",
-    "Algorithms/KNN/KNN_Vis.ipynb",
     "Pasted image 20230307172734.png.md",
     "images/hypothesis_LR.png",
     "Pasted image 20230307155934.png",

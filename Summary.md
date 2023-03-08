@@ -211,7 +211,10 @@
 			 1. Use it only for classification not for regression
 		 8. Scaling is required for logistic regression becuase of Regularisation
 	 5. ***Decision Tree or Classification And Regression Tree(CART)***
-		 1. 
+		 1.  Returns training and test subsets that have the same proportions of class labels as the input dataset.
+		 2. Tree consistes of  Nodes and Branches
+			 1. Nodes are decision points
+			 2. Branches are result of decision function
 			
 
         
