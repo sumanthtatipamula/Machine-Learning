@@ -260,6 +260,7 @@
 		 3. *Bootstrap Sampling*:
 			 1. Generate new training sets using sampling with replacement. It is called bootstrap sampling.
 			 2. Testing ![[bagging.png]]
+		 4. ![[Pasted image 20230308171914.png]]
 			
 
         
