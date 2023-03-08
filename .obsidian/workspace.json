@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -164,7 +165,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "71a3b0e17989bfe3",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
     "images/DecisionTree1.png",
     "Summary.md",

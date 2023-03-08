@@ -211,7 +211,7 @@
 			 1. Use it only for classification not for regression
 		 8. Scaling is required for logistic regression becuase of Regularisation
 	 5. ***Decision Tree or Classification And Regression Tree(CART)***
-		 1.  Returns training and test subsets that have the same proportions of class labels as the input dataset.
+		 1. Returns training and test subsets that have the same proportions of class labels as the input dataset.
 		 2. It is a greedy algorithm
 		 3. Tree consistes of  Nodes and Branches
 			 1. Nodes are decision points
@@ -231,6 +231,11 @@
 			 4. Entropy =  1 means maximum uncertainity or impurity
 		 6. ![[DecisionTree1.png]]
 			 1. Try all possible splits and select the one with highest information gain. i.e in above image split is done using age. now we need to try splitting using income,student etc. we select the split based on information gain. i.e whichever gives heghest information gain that is selected.
+		 7. Gini Index is another measure which gives similar results as entropy $Gini = 1 - \sum^{i =  1}_{C}(p_{{i}}^{2})$
+			 1. when uncertainity value will be 0.5 
+			 2. In perfectly classifed node, values will be 0
+		 8. We can use either gini or entropy, choose based on which one performs better.
+		 9. In the above image decision tree has more than 2 children, but in actual decision  tree it should be only 2 children.
 			
 
         
