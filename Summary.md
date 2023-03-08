@@ -259,7 +259,7 @@
 			 2. Combining the outputs of several classifiers may reduce the risk of selecting a poorly performing Classifier
 		 3. *Bootstrap Sampling*:
 			 1. Generate new training sets using sampling with replacement. It is called bootstrap sampling.
-			 2. ![[Pasted image 20230308170859.png]]
+			 2. Testing ![[bagging.png]]
 			
 
         
