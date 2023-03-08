@@ -252,6 +252,11 @@
 			 4. max_leaf_nodes = maximum number of leaf nodes in a tree.
 			 5. **Hyper Parameter Tuning : Grid Search**
 				 1. ![[HyperParameterTuning.png]]
+	 6. ***Random Forest***
+		 1. There is disadvantage with decision tree, they are too much sensitive to data.
+		 2. *Ensemble Techniques*:
+			 1. Build All possible and let them do prediction, whichever performs better we pick that.
+			 2. 
 			
 
         
