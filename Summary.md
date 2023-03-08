@@ -251,7 +251,7 @@
 				 1. ![[min_leaf_split.png]]
 			 4. max_leaf_nodes = maximum number of leaf nodes in a tree.
 			 5. **Hyper Parameter Tuning : Grid Search**
-				 1. 
+				 1. ![[HyperParameterTuning.png]]
 			
 
         
