@@ -18,24 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e57a7bc1c88c4d61",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b9e6ba4d8580f7c5",
+            "id": "83208caf65535b07",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Decision_Tree.pdf"
+                "file": "Libraries/Numpy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Libraries/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Libraries/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Libraries/Numpy.md"
               }
             }
           }
@@ -164,11 +161,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "71a3b0e17989bfe3",
+  "active": "83208caf65535b07",
   "lastOpenFiles": [
+    "Summary.md",
+    "Libraries/Numpy.md",
+    "Libraries",
     "Pasted image 20230308171914.png",
     "images/bagging.png",
-    "Summary.md",
     "Notes/Decision_Tree.pdf",
     "images/HyperParameterTuning.png",
     "images/min_leaf_split.png",
@@ -180,7 +179,6 @@
     "images/SplitonNumeric.png",
     "images/TreeConstructWithEncoding.png",
     "images/CategoricalEncoding.png",
-    "images/DecisionTree1.png",
     "Algorithms/Decision_Tree/AB5CEC20",
     "Algorithms/Decision_Tree/~$Entr_Calc.xlsx",
     "Algorithms/Logistic_Regression/F23E4C20",
@@ -188,7 +186,6 @@
     "Algorithms/Logistic_Regression/~$Sigmoid Function shape.xlsx",
     "Notes/Logistic_Regression.pdf",
     "Pasted image 20230308102417.png.md",
-    "Algorithms/Statistics/Store1.csv",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
     "Day1/Annotate.md"
