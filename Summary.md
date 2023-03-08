@@ -214,7 +214,15 @@
 		 1.  Returns training and test subsets that have the same proportions of class labels as the input dataset.
 		 2. Tree consistes of  Nodes and Branches
 			 1. Nodes are decision points
+				 1. Root Node: Representing Original Data
+				 2. Branch Node: representing a decision function
+				 3. Leaf Node or Pure Node: (holds the result of all previous functions that flow to it).
 			 2. Branches are result of decision function
+		 3. Algorithm:
+			 1. Tree creation splits data into subsets and subsets into further smaller subsets.
+			 2. The algorithm stops splitting data when data within the subsets are sufficiently homogenous or some other stopping criterion is met.
+			 3. After executing all the decision functions from Root Node to Leaf Node, the class of a data point is decided by the leaf node to which it reaches
+		 4. ![[DecisionTree.png]]
 			
 
         
