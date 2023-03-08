@@ -170,7 +170,8 @@
 			 1. The line with the least value total sum of squared prediction errors (in diagram shown as SSE) is considered as <mark style="background: #FFF3A3A6;">best fit line.</mark> This is called Cost Function or Loss Function = $\sum{(actual - predicted) ^{2}}$
 			 2. Actual Y - Predicted Y is error
 		 4. How equation of line is formed ![[BestFitLine.png]]
-			 1. Gradient Descent:
+			 1. <mark style="background: #BBFABBA6;">Gradient Descent</mark>: Minimize SSE to determinre best fit line(b0, b1)
+				 1. 
 		 5. Measuring Performance of Linear Equation
 			 1. For linear regression the performance measurement is about how close to the actual prediction is.
 			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$ 
@@ -178,7 +179,7 @@
 				 1. $R^{2} = \frac{SSR}{SST}$
 				 2. Value of R will lie between 0 and 1
 				 3. ![[Linear_Regression_Performance.png]]
-				 4. Coefficient of Determination (R2 ). Higher value of is R2 indicates better accuracy
+				 4. Coefficient of Determination (R2). Higher value of is R2 indicates better accuracy
 			 4. Mean Squared Error (MSE). Lower value of MSE indicates better accuracy
 					 1. $=  \frac{SSE}{n}$
 			 5. RMSE = $\sqrt{ MSE }$
@@ -189,6 +190,7 @@
 				 1. ![[CovBetweenRandomNumbers.png]]
 				 2. ![[LRTrainingAccuracy.png]]
 		 8.  Scaling is not required because every column has it's own coefficient, the performance will not change with or without.
+		 9. If multi collinearity exists then we need to use VIF, LASSO regression, PCA, Adjusted R-squared
 			
 
         
