@@ -188,7 +188,7 @@
 			 1. Why even though it appears there is no correlation but in reality there will be cov > 0
 				 1. ![[CovBetweenRandomNumbers.png]]
 				 2. ![[LRTrainingAccuracy.png]]
-		 8. 
+		 8.  Scaling is not required because every column has it's own coefficient, the performance will not change with or without.
 			
 
         
