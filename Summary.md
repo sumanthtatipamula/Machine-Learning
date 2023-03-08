@@ -112,6 +112,8 @@
  ## Supervised Learning
 	 ![[SupervisedLearning 2.png]]
 	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is done randomly.
+		 1. For all Classification algorithms we use Accuracy, Confusion Matrix, Precision , Recall, F1
+		 2. For Regression = $R^{2}$
 	 2. ***K Nearest Neighbors***
 		 1. Commonly used for classification
 		 2. Can also be used for regression
@@ -205,6 +207,7 @@
 			 2.  Maximise Log(likelihood) = $\sum(y_{{i}}\log(P) + (1 - y_{{i}})* \log(1 - P))$
 			 3.  Solving Min log loss gives best $b_{0}$ and $b_{1}$
 			 4. If p(cutoff) >= 0.5 then predict Y = 1 else predict Y = 0. Cutoff can be changed manually.
+		 7. 
 			
 
         
