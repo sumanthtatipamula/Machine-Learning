@@ -185,6 +185,10 @@
 			 6. Mean Absolute Error $= \frac{\sum{Error}}{n}$
 		 6.  If p > 0.05 the column is significant ![[hypothesis_LR.png]]
 		 7. Training accuracy will always goes down if we remove any column whether it is useful or not.
-			 1. Why even though it appears there is no correlation but in reality there will be cov >
+			 1. Why even though it appears there is no correlation but in reality there will be cov > 0
+				 1. ![[CovBetweenRandomNumbers.png]]
+				 2. ![[LRTrainingAccuracy.png]]
+		 8. 
+			
 
         
