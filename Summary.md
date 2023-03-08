@@ -207,7 +207,8 @@
 			 2.  Maximise Log(likelihood) = $\sum(y_{{i}}\log(P) + (1 - y_{{i}})* \log(1 - P))$
 			 3.  Solving Min log loss gives best $b_{0}$ and $b_{1}$
 			 4. If p(cutoff) >= 0.5 then predict Y = 1 else predict Y = 0. Cutoff can be changed manually.
-		 7. 
+		 7. Stratify = returns training and test subsets that have the same proportions of class labels as the input dataset.
+			 1. Use it only for classification not for regression
 			
 
         
