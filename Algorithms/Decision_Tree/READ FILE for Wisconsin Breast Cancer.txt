@@ -1,0 +1,19 @@
+col_names = ['id', 'Clump Thickness', 'Uniformity of Cell Size', 
+       'Uniformity of Cell Shape', 'Marginal Adhesion', 
+       'Single Epithelial Cell Size', 'Bare Nuclei', 'Bland Chromatin',
+       'Normal Nucleoli', 'Mitoses', 'Class']
+data_df = pd.read_csv("breast-cancer-wisconsin.data.csv", names=col_names,
+                 header=None)
+
+
+
+
+
+
+
+
+
+
+
+
+

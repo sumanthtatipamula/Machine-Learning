@@ -1,0 +1,6 @@
+# add following code after .head()
+social_df["Gender"] = pd.Categorical(social_df["Gender"]).codes
+
+
+# Use following code to drop "User ID" (when defining X)
+X = social_df.drop(["User ID","Purchased"], axis=1)
