@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1342435d6b562c63",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6833dbf242c9f2d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Decision_Tree.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +148,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "71a3b0e17989bfe3",
   "lastOpenFiles": [
     "images/min_leaf_split.png",
     "images/min_sample_split.png",
