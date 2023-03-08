@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Numpy.md",
+                "file": "Libraries/Numpy/Numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/Numpy.md",
+                "file": "Libraries/Numpy/Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/Numpy.md",
+                "file": "Libraries/Numpy/Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/Numpy.md"
+                "file": "Libraries/Numpy/Numpy.md"
               }
             }
           }
@@ -161,10 +161,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "83208caf65535b07",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
+    "Libraries/Numpy/Untitled.ipynb",
+    "Libraries/Numpy",
+    "Untitled",
     "Summary.md",
-    "Libraries/Numpy.md",
+    "Libraries/Numpy/Numpy.md",
     "Libraries",
     "Pasted image 20230308171914.png",
     "images/bagging.png",
@@ -183,8 +186,6 @@
     "Algorithms/Decision_Tree/~$Entr_Calc.xlsx",
     "Algorithms/Logistic_Regression/F23E4C20",
     "Algorithms/Logistic_Regression/37E44C20",
-    "Algorithms/Logistic_Regression/~$Sigmoid Function shape.xlsx",
-    "Notes/Logistic_Regression.pdf",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
