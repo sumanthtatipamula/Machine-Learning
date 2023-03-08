@@ -193,8 +193,14 @@
 		 8.  Scaling is not required because every column has it's own coefficient, the performance will not change with or without.
 		 9. If multi collinearity exists then we need to use VIF, LASSO regression, PCA, Adjusted R-squared
 	 4. ***Logistic Regression***
-		 1.  It uses Sigmoic function to make probabilistic prediction. Probability P that a data point belongs to a class for a given value x
+		 1.  It uses Sigmoic function to make probabilistic prediction. Probability P that a data point belongs to a class for a given value x =  $\frac{1}{1 + e^{-(b_{0} + b_{1} * x)}}$
 		 2.  Probability Value lies between 0 and 1
+		 3. By chaning $b_{0}$ curve will shift to its left($\uparrow$) or right with ($\downarrow$).
+		 4. By changing $b_{1}$ curve becomes sharp($\uparrow$) and slant with ($\downarrow$).
+		 5. So we need to achieve best fit curve by chaning $b_{0}$ and $b_{1}$.
+		 6. How to get equation of line
+			 1. Maximise Likelihood
+				 1. $\prod^{1}_{n} p_{i} ^{y}$
 			
 
         
