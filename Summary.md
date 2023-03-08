@@ -212,24 +212,25 @@
 		 8. Scaling is required for logistic regression becuase of Regularisation
 	 5. ***Decision Tree or Classification And Regression Tree(CART)***
 		 1.  Returns training and test subsets that have the same proportions of class labels as the input dataset.
-		 2. Tree consistes of  Nodes and Branches
+		 2. It is a greedy algorithm
+		 3. Tree consistes of  Nodes and Branches
 			 1. Nodes are decision points
 				 1. Root Node: Representing Original Data
 				 2. Branch Node: representing a decision function
 				 3. Leaf Node : (holds the result of all previous functions that flow to it).
 				 4. Pure Node : It is a leaf node with entropy 0
 			 2. Branches are result of decision function
-		 3. Algorithm:
+		 4. Algorithm:
 			 1. Tree creation splits data into subsets and subsets into further smaller subsets.
 			 2. The algorithm stops splitting data when data within the subsets are sufficiently homogenous or some other stopping criterion is met.
 			 3. After executing all the decision functions from Root Node to Leaf Node, the class of a data point is decided by the leaf node to which it reaches
-		 4. Decision Tree algorithm learns through the measure of impurity of data in a node.
+		 5. Decision Tree algorithm learns through the measure of impurity of data in a node.
 			 1. Entropy = $\sum^{1}_{c}(-p_{{i}} * log(p_{{i}}))$
 			 2. Entropy ranges from 0 to 1
 			 3. Entropy = 0 means 100% information
 			 4. Entropy =  1 means maximum uncertainity or impurity
-		 5. ![[DecisionTree1.png]]
-			 1. Entropy = 
+		 6. ![[DecisionTree1.png]]
+			 1. Try all possible splits and select the one with highest information gain. i.e in above image split is done using age. now we need to try splitting using income,student etc. we select the split based on information gain. i.e whichever gives heghest information gain that is selected.
 			
 
         
