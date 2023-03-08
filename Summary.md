@@ -198,9 +198,9 @@
 		 3. By chaning $b_{0}$ curve will shift to its left($\uparrow$) or right with ($\downarrow$).
 		 4. By changing $b_{1}$ curve becomes sharp($\uparrow$) and slant with ($\downarrow$).
 		 5. So we need to achieve best fit curve by chaning $b_{0}$ and $b_{1}$.
-		 6. How to get equation of line
+		 6. Optimization for  equation of line
 			 1. Maximise Likelihood =  $\prod^{1}_{n} p_{i}^{y_{{i}}} * (1 - p_{{i}} ^{(1 - y_{{i}})})$
-				 1. 
+				 1. ![[LRHeartProblem.png]]
 			
 
         

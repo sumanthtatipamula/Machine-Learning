@@ -183,13 +183,14 @@
       }
     ]
   },
-  "active": "71a3b0e17989bfe3",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
+    "images/LRHeartProblem.png",
+    "Summary.md",
     "Algorithms/Logistic_Regression/F23E4C20",
     "Algorithms/Logistic_Regression/37E44C20",
     "Algorithms/Logistic_Regression/~$Sigmoid Function shape.xlsx",
     "Notes/Logistic_Regression.pdf",
-    "Summary.md",
     "images/GradientDescentWithB1.png",
     "images/GradientDescent.png",
     "Pasted image 20230308102417.png.md",
@@ -201,7 +202,6 @@
     "Algorithms/Statistics",
     "Algorithms/KNN/Tshirt.csv",
     "Algorithms/KNN/KNN_Vis.ipynb",
-    "Algorithms/KNN/KNN_Tshirt_1.ipynb",
     "Pasted image 20230307172734.png.md",
     "images/hypothesis_LR.png",
     "Pasted image 20230307155934.png",
@@ -209,7 +209,6 @@
     "Pasted image 20230307153726.png.md",
     "images/BestFitLine.png",
     "images/correlation.png",
-    "images/knn_snippet.png",
     "Day1/Annotate.md"
   ]
 }
