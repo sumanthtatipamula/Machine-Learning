@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6833dbf242c9f2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/Decision_Tree.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Decision_Tree.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Decision_Tree.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Notes/Decision_Tree.pdf"
               }
             }
           }
@@ -148,45 +159,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "floating": {
-    "id": "fca13d4e07974e8e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "06524d6877d1af87",
-        "type": "window",
-        "children": [
-          {
-            "id": "6d57abf4fc81ba5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cb47ddab91fa2e7c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notes/Logistic_Regression.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -488,
-        "y": 970,
-        "width": 1211,
-        "height": 836,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fa6f874c7b77fc9f",
+  "active": "e6833dbf242c9f2d",
   "lastOpenFiles": [
-    "images/LRHeartProblem.png",
+    "Notes/Decision_Tree.pdf",
     "Summary.md",
+    "images/LRHeartProblem.png",
     "Algorithms/Logistic_Regression/F23E4C20",
     "Algorithms/Logistic_Regression/37E44C20",
     "Algorithms/Logistic_Regression/~$Sigmoid Function shape.xlsx",
