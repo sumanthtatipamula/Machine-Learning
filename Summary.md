@@ -112,7 +112,7 @@
  ## Supervised Learning
 	 ![[SupervisedLearning 2.png]]
 	 1. Part of the data we givesome part for training and some part for testing. i.e 70 % to 80 % data will be going for training and 30 % to 20% rows will go for testing. The split is done randomly.
-	 2.  ***K Nearest Neighbors***
+	 2. ***K Nearest Neighbors***
 		 1. Commonly used for classification
 		 2. Can also be used for regression
 		 3. Classification is determined based on a majority vote of the nearest neighbors of each point
@@ -153,7 +153,7 @@
 				 1. Recall for B = 19 / (19+1)
 				 2. Recall for A,C = 15 / 15
 			 5. F1 score = $\frac{2*(Recall * Precision)}{(Recall + Precision)}$
-	 3.  ***Linear Regression***
+	 3. ***Linear Regression***
 		 1. The term "linear" in the name “linear regression” refers to the fact that the method models data with linear combination of the explanatory (independent) variables.
 		 2.  *Covariance*:
 			 1. measures the join variability between two numerical variables (X and Y).
@@ -192,6 +192,8 @@
 				 2. ![[LRTrainingAccuracy.png]]
 		 8.  Scaling is not required because every column has it's own coefficient, the performance will not change with or without.
 		 9. If multi collinearity exists then we need to use VIF, LASSO regression, PCA, Adjusted R-squared
+	 4. ***Logistic Regression***
+		 1. 
 			
 
         

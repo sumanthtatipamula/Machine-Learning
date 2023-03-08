@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb47ddab91fa2e7c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/Logistic_Regression.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Logistic_Regression.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Logistic_Regression.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Notes/Logistic_Regression.pdf"
               }
             }
           }
@@ -148,12 +159,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "cb47ddab91fa2e7c",
   "lastOpenFiles": [
+    "Summary.md",
     "images/GradientDescentWithB1.png",
     "images/GradientDescent.png",
     "Pasted image 20230308102417.png.md",
-    "Summary.md",
     "images/LRTrainingAccuracy.png",
     "images/CovBetweenRandomNumbers.png",
     "Algorithms/Statistics/Store1.csv",
@@ -174,7 +185,6 @@
     "images/BestFitLine.png",
     "images/correlation.png",
     "images/knn_snippet.png",
-    "images/FitTransform.png",
     "Day1/Annotate.md"
   ]
 }
