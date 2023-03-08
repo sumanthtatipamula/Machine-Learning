@@ -11,11 +11,9 @@
             "id": "71a3b0e17989bfe3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "images/CategoricalEncoding.png"
               }
             }
           }
@@ -85,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "808796263fe32145",
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "images/CategoricalEncoding.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "images/CategoricalEncoding.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "images/CategoricalEncoding.png"
               }
             }
           }
@@ -167,8 +164,9 @@
   },
   "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
-    "images/DecisionTree1.png",
     "Summary.md",
+    "images/CategoricalEncoding.png",
+    "images/DecisionTree1.png",
     "Pasted image 20230308143750.png",
     "Pasted image 20230308143755.png",
     "Algorithms/Decision_Tree/AB5CEC20",
@@ -189,7 +187,6 @@
     "Algorithms/Statistics/Store.csv",
     "Algorithms/Statistics/Statistics.ipynb",
     "Pasted image 20230307172734.png.md",
-    "images/hypothesis_LR.png",
     "Pasted image 20230307153726.png.md",
     "Day1/Annotate.md"
   ]
