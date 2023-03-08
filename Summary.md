@@ -241,6 +241,8 @@
 				 1. ![[CategoricalEncoding.png]]
 				 2. First level Split ![[TreeConstructWithEncoding.png]]
 				 3. ![[SplitonNumeric.png]]
+		 10. More the info gain and more the records passing through it, more the importance `dt_model.feature_importances_`
+		 11. 
 			
 
         
