@@ -172,7 +172,7 @@
 		 4. How equation of line is formed ![[BestFitLine.png]]
 			 1. <mark style="background: #BBFABBA6;">Gradient Descent</mark>: Minimize SSE to determinre best fit line(b0, b1)
 				 1. ![[GradientDescent.png]] it is not realistic because we didn't consider b1
-				 2. 
+				 2. ![[GradientDescentWithB1.png]]
 		 5. Measuring Performance of Linear Equation
 			 1. For linear regression the performance measurement is about how close to the actual prediction is.
 			 2. The Sum of Squares Regression is the sum of the squared differences between the prediction for each observation and the population mean. = $= \sum{(predicted \ Y - Mean \ of\ Y)}^{2}$ 
