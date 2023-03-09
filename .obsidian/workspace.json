@@ -172,10 +172,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "eab21b739443f92b",
   "lastOpenFiles": [
-    "Notes/Naive Bayes.pdf",
+    "images/Bayes.png",
     "Summary.md",
+    "Notes/Naive Bayes.pdf",
     "Notes/Artificial Neural Network.pdf",
     "Notes/SVM.pdf",
     "Algorithms/SVM/SVM_Vis.ipynb",
@@ -196,7 +197,6 @@
     "images/DecisionTreeFit.png",
     "images/SplitonNumeric.png",
     "images/TreeConstructWithEncoding.png",
-    "images/CategoricalEncoding.png",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
