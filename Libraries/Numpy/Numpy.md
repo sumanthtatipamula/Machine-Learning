@@ -57,7 +57,18 @@
 	2.  arr_2d[arr_2d > 5] return elements in 2d array which meets this condition
 
 ## Operations
-1. 
+1.  Array with array
+	1. arr = np.arange(0, 11)
+		1.  arr + arr -  adds values index wise
+		2.  arr *  arr
+2.  Array with Scalars
+	1.  arr + 100 - adds 100 to each value in arr
+	2.  arr ** 2
+	3. arr - 100
+	4. arr / 100
+3.  Universal Array Functions
+	1. np. sq
+
 
 	
 
