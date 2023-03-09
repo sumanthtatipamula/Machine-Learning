@@ -297,18 +297,19 @@
 			 3. if classification is incorrect, modift the weight vector w
 			 4. Reapeat the above two stesp until the entire training set is classfied correctly.
 		 4. If the data is linearly separable then it will find the line/surface that linearly separate the data.
-		 5. 
-	 9. In classification Boosting
+	 9. ***Artificial Neural networks***
+		 1. 
+	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
 		 3. XG Boost
-	 10.  In clustering
+	 11.  In clustering
 		 1. BSCAN
-	 11. Dimension Reduction
+	 12. Dimension Reduction
 		 1. LDA
-	 12. Time Series
-	 13. Recommendation Engines
-	 14. Reinforcement Learning
+	 13. Time Series
+	 14. Recommendation Engines
+	 15. Reinforcement Learning
 			
 
         

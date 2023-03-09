@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eab21b739443f92b",
+            "id": "b43b98e09cc1e6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,24 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "dca9bfcfcecc3b5f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bf913bb317092c98",
+            "id": "eab21b739443f92b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notes/SVM.pdf"
+                "file": "Notes/Artificial Neural Network.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "808796263fe32145",
@@ -166,17 +160,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "eab21b739443f92b",
+  "active": "b43b98e09cc1e6dc",
   "lastOpenFiles": [
-    "Notes/SVM.pdf",
+    "Notes/Artificial Neural Network.pdf",
     "Summary.md",
+    "Notes/SVM.pdf",
     "images/BayesAlgorithms.png",
     "images/BayesProblemWithXContinuous.png",
     "images/BayesProblem.png",
     "images/Bayes 1.png",
     "images/Bayes.png",
     "Notes/Naive Bayes.pdf",
-    "Notes/Artificial Neural Network.pdf",
     "Algorithms/SVM/SVM_Vis.ipynb",
     "Algorithms/SVM/SVM_OCR.ipynb",
     "Algorithms/SVM/letterdata.csv",

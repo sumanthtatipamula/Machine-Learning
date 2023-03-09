@@ -358,6 +358,7 @@ Pol
 PnR
 PvG
 Predict
+Perceptron
 IHDR
 IDATx
 IU
@@ -1163,6 +1164,12 @@ smp
 ssCNk
 siM
 source
+seperating
+space
+stesp
+separable
+surface
+separate
 gAMA
 gb
 ge
@@ -3035,6 +3042,7 @@ vUW
 vyg
 vLz
 vtx
+vector
 wB
 wl
 wrr
@@ -3379,6 +3387,7 @@ wPC
 wRb
 wGb
 wpX
+weight
 ZmZ
 ZJ
 ZOE
@@ -4398,6 +4407,8 @@ leC
 lRW
 lGb
 lVo
+linearly
+low
 aB
 amm
 aKx
@@ -6288,6 +6299,7 @@ nCj
 nau
 nXKy
 nrj
+nothing
 QC
 QD
 QL
@@ -7343,6 +7355,7 @@ mxc
 mwg
 missing
 mode
+modift
 kb
 kVv
 kTg
@@ -8055,6 +8068,7 @@ eMF
 eqie
 exb
 eka
+entire
 Vm
 Vmp
 VU
@@ -10595,6 +10609,7 @@ HHX
 HCy
 HqC
 Handling
+Hyperplane
 ow
 ob
 oB
@@ -13867,6 +13882,7 @@ uyI
 uIv
 uFVB
 uJq
+until
 Rc
 RS
 RL
@@ -14205,6 +14221,7 @@ Rcz
 Replace
 Recommendation
 Reinforcement
+Reapeat
 zjP
 zq
 zPPp
@@ -17823,6 +17840,7 @@ Sem
 Syv
 Support
 Series
+Select
 ck
 cF
 ckk
@@ -18255,6 +18273,7 @@ cPD
 cvgq
 ctFrB
 clustering
+classfied
 FhMr
 Fl
 FL
