@@ -298,7 +298,8 @@
 			 4. Reapeat the above two stesp until the entire training set is classfied correctly.
 		 4. If the data is linearly separable then it will find the line/surface that linearly separate the data.
 	 9. ***Artificial Neural networks***
-		 1. 
+		 1.  How manu neurons chosen in hidden layer is hyper parameter.
+		 2. A random weight is assigned during initialization to each line except the final output.
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
