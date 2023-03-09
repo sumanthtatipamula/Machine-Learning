@@ -310,7 +310,8 @@
 		 7. The above 3 functions are called activation function and  it is a hyper parameter.
 		 8. Selected activation funcion is applied to all hidden layer neurons.
 		 9. How many hidden layers is also a hyper parameter.
-		 10. 
+		 10.  Output layer function
+			 1. 
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
