@@ -303,6 +303,12 @@
 		 3. Each neuron has input and a function that generates output.
 		 4. Input recived by neuron is $\sum^{k = 1}_{n} I_{{k}}W_{{k}}$ W is random weight.
 		 5. Bias Inputs is like $b_{0}$ in other algorithms
+		 6.  for the result of the input we apply any of the three functions to generate output for current neuron and input to next level neuron.
+			 1. Sigmoid
+			 2. TanH
+			 3. ReLU
+		 7. The above 3 functions are called activation function and  it is a hyper parameter.
+		 8. Selected activation funcion is applied to all hidden layer neurons.
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
