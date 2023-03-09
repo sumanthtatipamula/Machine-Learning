@@ -267,7 +267,10 @@
 			 2. Testing ![[bagging.png]]
 		 4. ![[RandomForest.png]]
 			 1. By default it picks random n ** 0.5, but it can be overridden.
-			 2. 
+	 7. ***Naive Bayes Classifier***
+		 1. Its a pure classifier and can't be used in regression
+		 2. It is based on Bayes theorem. It is called “naïve” due to the assumption that the features in the dataset are independent which may not be true in the real world.
+		 3. 
 			
 
         

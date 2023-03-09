@@ -706,6 +706,7 @@ IlR
 IRC
 Iswww
 ImO
+Its
 sRGB
 sg
 svF
@@ -1101,6 +1102,7 @@ stF
 sGG
 sUVS
 sIk
+splitted
 gAMA
 gb
 ge
@@ -1795,6 +1797,8 @@ pXb
 pDDH
 puH
 prJ
+picks
+pure
 TY
 TU
 TN
@@ -5900,6 +5904,7 @@ nPGN
 nLJ
 nZy
 naQR
+nfolds
 QC
 QD
 QL
@@ -10290,6 +10295,7 @@ obd
 oDu
 oay
 oEh
+overridden
 Ukx
 Uu
 UjJ
@@ -12720,6 +12726,7 @@ BlF
 BcF
 BJB
 BQU
+Bayes
 up
 uE
 uk
@@ -17142,6 +17149,7 @@ cjM
 cnrsrr
 cVD
 cLPN
+classifier
 FhMr
 Fl
 FL
@@ -17855,6 +17863,7 @@ Nkx
 NAY
 NhwB
 NkE
+Naive
 üw
 üy
 ün

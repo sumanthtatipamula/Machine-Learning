@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "9efa5c1a27d97b5d",
-        "type": "tabs",
+        "id": "a9c4a060c8c0c7e7",
+        "type": "split",
         "children": [
           {
-            "id": "83208caf65535b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
+            "id": "e324b64c32fcfbb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83208caf65535b07",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Notes/Naive Bayes.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "9efa5c1a27d97b5d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eab21b739443f92b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Summary.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -149,12 +172,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "83208caf65535b07",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
-    "Notes/Artificial Neural Network.pdf",
-    "Notes/SVM.pdf",
     "Notes/Naive Bayes.pdf",
     "Summary.md",
+    "Notes/Artificial Neural Network.pdf",
+    "Notes/SVM.pdf",
     "Algorithms/SVM/SVM_Vis.ipynb",
     "Algorithms/SVM/SVM_OCR.ipynb",
     "Algorithms/SVM/letterdata.csv",
