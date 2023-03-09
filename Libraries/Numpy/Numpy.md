@@ -50,7 +50,15 @@
 2.  `arr_2d = np.array([[5,10,15],[20,25,30],[35,40,45]])`
 	1. Indexing can be done in 2 ways
 		1. just like in python `arr_2d[1][2]
-		2. 
+		2.  `arr_2d[1, 2]`
+		3.  To get range of elements  `arr_2d[:2, :1]`
+3.  Conditions
+	1. arr > 1 returns an boolean array with values True if condition is met else false
+	2.  arr_2d[arr_2d > 5] return elements in 2d array which meets this condition
+
+## Operations
+1. 
+
 	
 
 
