@@ -279,6 +279,7 @@
 				 2. $P(\frac{A}{B})$ - posterioir probability
 			 5. ![[Bayes 1.png]]
 			 6. ![[BayesProblem.png]]
+			 7. ![ba]]
 			
 
         
