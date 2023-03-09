@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "dca9bfcfcecc3b5f",
+        "type": "tabs",
+        "children": [
           {
             "id": "bf913bb317092c98",
             "type": "leaf",
@@ -29,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
@@ -96,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SVM.pdf",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SVM.pdf",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SVM.pdf"
+                "file": "Summary.md"
               }
             }
           }
@@ -160,8 +166,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bf913bb317092c98",
+  "active": "eab21b739443f92b",
   "lastOpenFiles": [
+    "Notes/SVM.pdf",
     "Summary.md",
     "images/BayesAlgorithms.png",
     "images/BayesProblemWithXContinuous.png",
@@ -170,7 +177,6 @@
     "images/Bayes.png",
     "Notes/Naive Bayes.pdf",
     "Notes/Artificial Neural Network.pdf",
-    "Notes/SVM.pdf",
     "Algorithms/SVM/SVM_Vis.ipynb",
     "Algorithms/SVM/SVM_OCR.ipynb",
     "Algorithms/SVM/letterdata.csv",

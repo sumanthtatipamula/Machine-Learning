@@ -290,6 +290,12 @@
 			 6. Replace based on domain knowledge
 	 8.  ***Support Vector Machine***
 		 1. Comonly used for classification
+		 2. It attempts to find Hyperplane, linearly seperating data. In low dimension space, it is a line: $w_{1}x_{1} + w_{2}x_{2} + b = 0$ where $x_{1}, x_{2}$ are features
+		 3. Perceptron algorithm
+			 1. Select random sample from training set as input
+			 2. if classification is correct, do nothing
+			 3. if classification is incorrect, modift the weight vector w
+			 4. 
 	 9. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
