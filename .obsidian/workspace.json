@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c4a060c8c0c7e7",
-        "type": "split",
+        "id": "9efa5c1a27d97b5d",
+        "type": "tabs",
         "children": [
           {
-            "id": "e324b64c32fcfbb6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "83208caf65535b07",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notes/Naive Bayes.pdf"
-                  }
-                }
+            "id": "eab21b739443f92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "9efa5c1a27d97b5d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eab21b739443f92b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Summary.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,8 +149,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "eab21b739443f92b",
   "lastOpenFiles": [
+    "images/BayesAlgorithms.png",
     "images/BayesProblemWithXContinuous.png",
     "images/BayesProblem.png",
     "Summary.md",
@@ -197,7 +175,6 @@
     "images/min_leaf_split.png",
     "images/min_sample_split.png",
     "Pasted image 20230308162745.png",
-    "images/DecisionTreeFit.png",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
