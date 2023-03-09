@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf913bb317092c98",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/SVM.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/SVM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/SVM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Notes/SVM.pdf"
               }
             }
           }
@@ -149,12 +160,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "eab21b739443f92b",
+  "active": "bf913bb317092c98",
   "lastOpenFiles": [
+    "Summary.md",
     "images/BayesAlgorithms.png",
     "images/BayesProblemWithXContinuous.png",
     "images/BayesProblem.png",
-    "Summary.md",
     "images/Bayes 1.png",
     "images/Bayes.png",
     "Notes/Naive Bayes.pdf",
@@ -174,7 +185,6 @@
     "images/HyperParameterTuning.png",
     "images/min_leaf_split.png",
     "images/min_sample_split.png",
-    "Pasted image 20230308162745.png",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",

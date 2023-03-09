@@ -288,7 +288,8 @@
 			 4. Get the missing data from another source(ideal which not happens in most of the cases).
 			 5. Predict the missing values using other X's
 			 6. Replace based on domain knowledge
-	 8.  A
+	 8.  ***Support Vector Machine***
+		 1. Comonly used for classification
 	 9. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
@@ -297,6 +298,9 @@
 		 1. BSCAN
 	 11. Dimension Reduction
 		 1. LDA
+	 12. Time Series
+	 13. Recommendation Engines
+	 14. Reinforcement Learning
 			
 
         
