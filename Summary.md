@@ -295,7 +295,9 @@
 			 1. Select random sample from training set as input
 			 2. if classification is correct, do nothing
 			 3. if classification is incorrect, modift the weight vector w
-			 4. 
+			 4. Reapeat the above two stesp until the entire training set is classfied correctly.
+		 4. If the data is linearly separable then it will find the line/surface that linearly separate the data.
+		 5. 
 	 9. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
