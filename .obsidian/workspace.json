@@ -11,9 +11,11 @@
             "id": "83208caf65535b07",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Artificial Neural Network.pdf"
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Artificial Neural Network.pdf",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Artificial Neural Network.pdf",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Artificial Neural Network.pdf"
+                "file": "Summary.md"
               }
             }
           }
@@ -149,10 +151,10 @@
   },
   "active": "83208caf65535b07",
   "lastOpenFiles": [
+    "Notes/Artificial Neural Network.pdf",
     "Notes/SVM.pdf",
     "Notes/Naive Bayes.pdf",
     "Summary.md",
-    "Notes/Artificial Neural Network.pdf",
     "Algorithms/SVM/SVM_Vis.ipynb",
     "Algorithms/SVM/SVM_OCR.ipynb",
     "Algorithms/SVM/letterdata.csv",
