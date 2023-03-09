@@ -266,6 +266,8 @@
 			 1. Generate new training sets using sampling with replacement. It is called bootstrap sampling.
 			 2. Testing ![[bagging.png]]
 		 4. ![[RandomForest.png]]
+			 1. By default it picks random n ** 0.5, but it can be overridden.
+			 2. 
 			
 
         
