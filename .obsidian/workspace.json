@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "406d6fb754513e76",
+        "type": "tabs",
+        "children": [
           {
             "id": "eab21b739443f92b",
             "type": "leaf",
@@ -29,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "808796263fe32145",
