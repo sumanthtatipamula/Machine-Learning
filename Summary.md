@@ -274,6 +274,7 @@
 			 1. Given the card drawn is red. What is the probability it is an ace ? = 2 / 26
 			 2.  $P\left(\frac{Ace}{Red}\right)= p(Ace \cap Red) / P(\mathrm{Re}d)$ 
 			 3. $P(A \cap B) = P(A) * P(B)$ when A and B are independent
+			 4. $P\left(\frac{A}{B}\right) = \frac{P\left(\frac{B}{A}\right)* P(A)}{P(B)}$ - Bayes Theorem
 			
 
         
