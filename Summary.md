@@ -281,7 +281,13 @@
 			 6. ![[BayesProblem.png]]
 			 7. ![[BayesProblemWithXContinuous.png]]
 			 8. ![[BayesAlgorithms.png]]
-			 9. 
+		 4. Handling missing values
+			 1. Delete the rows
+			 2. Replace with mean/median/mode - done when only a few rows have missing values
+			 3. Drop the column(if most of the values in the column are missing)
+			 4. Get the missing data from another source(ideal which not happens in most of the cases).
+			 5. Predict the missing values using other X's
+			 6. Replace based on domain knowledge
 			
 
         
