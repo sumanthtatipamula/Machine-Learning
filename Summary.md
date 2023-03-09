@@ -275,6 +275,9 @@
 			 2.  $P\left(\frac{Ace}{Red}\right)= p(Ace \cap Red) / P(\mathrm{Re}d)$ 
 			 3. $P(A \cap B) = P(A) * P(B)$ when A and B are independent
 			 4. $P\left(\frac{A}{B}\right) = \frac{P\left(\frac{B}{A}\right)* P(A)}{P(B)}$ - Bayes Theorem
+				 1. $P(A)$ is prior probability
+				 2. $P(\frac{A}{B})$ - posterioir probability
+			 5. 
 			
 
         
