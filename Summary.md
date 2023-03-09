@@ -277,7 +277,8 @@
 			 4. $P\left(\frac{A}{B}\right) = \frac{P\left(\frac{B}{A}\right)* P(A)}{P(B)}$ - Bayes Theorem
 				 1. $P(A)$ is prior probability
 				 2. $P(\frac{A}{B})$ - posterioir probability
-			 5. ![[Bayes.png]]
+			 5. ![[Bayes 1.png]]
+			 6. 
 			
 
         
