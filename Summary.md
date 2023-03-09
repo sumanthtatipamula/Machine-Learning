@@ -109,7 +109,7 @@
 
 
 ## libraries
-1. [numpy](./Libraries/Numpy/Numpy.md)
+1. [numpy](./Libraries/Numpy/Numpy.m)
 
 ## Algorithms
 
@@ -265,7 +265,7 @@
 		 3. *Bootstrap Sampling*:
 			 1. Generate new training sets using sampling with replacement. It is called bootstrap sampling.
 			 2. Testing ![[bagging.png]]
-		 4. ![[Pasted image 20230308171914.png]]
+		 4. ![[RandomForest.png]]
 			
 
         
