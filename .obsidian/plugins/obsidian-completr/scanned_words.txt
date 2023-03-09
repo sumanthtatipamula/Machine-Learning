@@ -359,6 +359,8 @@ PnR
 PvG
 Predict
 Perceptron
+Plot
+Put
 IHDR
 IDATx
 IU
@@ -1170,6 +1172,10 @@ stesp
 separable
 surface
 separate
+sizes
+state
+scatter
+show
 gAMA
 gb
 ge
@@ -1919,6 +1925,11 @@ pLxz
 pII
 pHyX
 pLfx
+plain
+pygments
+plot
+plt
+pcolormesh
 TY
 TU
 TN
@@ -2687,6 +2698,8 @@ tWk
 teo
 tNAm
 tog
+type
+text
 vw
 vh
 vSM
@@ -3043,6 +3056,7 @@ vyg
 vLz
 vtx
 vector
+version
 wB
 wl
 wrr
@@ -4075,6 +4089,8 @@ fnc
 fAx
 fMt
 few
+file
+figure
 lmm
 lh
 lYu
@@ -4409,6 +4425,10 @@ lGb
 lVo
 linearly
 low
+language
+lexer
+layer
+light
 aB
 amm
 aKx
@@ -4865,6 +4885,8 @@ aPd
 aCZ
 aOA
 aLxj
+activation
+assign
 ja
 jj
 jx
@@ -5555,6 +5577,7 @@ hfY
 hoIAJ
 hcwH
 happens
+hidden
 CF
 Ccan
 CL
@@ -5946,6 +5969,7 @@ CaL
 CkI
 CUy
 Comonly
+Class
 nGA
 nM
 ns
@@ -6300,6 +6324,9 @@ nau
 nXKy
 nrj
 nothing
+null
+nbconvert
+nbformat
 QC
 QD
 QL
@@ -7006,6 +7033,7 @@ xeb
 xzN
 xcL
 xAu
+xlim
 mU
 mokc
 mJ
@@ -7356,6 +7384,11 @@ mwg
 missing
 mode
 modift
+metadata
+mimetype
+minor
+mesh
+meshgrid
 kb
 kVv
 kTg
@@ -7701,6 +7734,7 @@ ksp
 kgq
 kiv
 kDZ
+kernelspec
 eK
 ee
 ek
@@ -8069,6 +8103,11 @@ eqie
 exb
 eka
 entire
+execution
+execute
+extension
+exporter
+edgecolor
 Vm
 Vmp
 VU
@@ -9552,6 +9591,7 @@ MgJ
 MjX
 MLU
 MPuz
+MLPClassifier
 LMLQ
 LTe
 LLMY
@@ -9906,6 +9946,7 @@ LFj
 LFhN
 Lcw
 LDA
+ListedColormap
 WA
 Wxp
 WQ
@@ -10970,6 +11011,7 @@ oMy
 oEE
 oxB
 oFu
+output
 Ukx
 Uu
 UjJ
@@ -12391,6 +12433,7 @@ ynk
 ypm
 ywuDCN
 yTt
+ylim
 rd
 rp
 rla
@@ -12774,6 +12817,7 @@ rEX
 rzX
 rhT
 rEJ
+relu
 AV
 AJ
 AI
@@ -14914,6 +14958,11 @@ igp
 icAA
 ibS
 ideal
+ipykernel
+ipython
+iris
+instance
+iter
 Yj
 Yq
 YH
@@ -16351,6 +16400,7 @@ dnD
 dvRg
 dCx
 dya
+display
 bAPP
 bck
 bii
@@ -16730,6 +16780,8 @@ bcya
 bzO
 bUN
 bEM
+bold
+boundary
 XjPp
 Xl
 Xh
@@ -18274,6 +18326,14 @@ cvgq
 ctFrB
 clustering
 classfied
+cells
+cell
+code
+counts
+codemirror
+cmap
+clf
+color
 FhMr
 Fl
 FL
@@ -19037,6 +19097,7 @@ NiA
 Nhc
 NPQ
 Nlma
+Neighbours
 üw
 üy
 ün
