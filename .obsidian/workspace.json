@@ -11,11 +11,9 @@
             "id": "83208caf65535b07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Artificial Neural Network.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Artificial Neural Network.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Notes/Artificial Neural Network.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Notes/Artificial Neural Network.pdf"
               }
             }
           }
@@ -149,22 +147,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fa6f874c7b77fc9f",
+  "active": "83208caf65535b07",
   "lastOpenFiles": [
+    "Notes/SVM.pdf",
+    "Notes/Naive Bayes.pdf",
+    "Summary.md",
+    "Notes/Artificial Neural Network.pdf",
+    "Algorithms/SVM/SVM_Vis.ipynb",
+    "Algorithms/SVM/SVM_OCR.ipynb",
+    "Algorithms/SVM/letterdata.csv",
+    "Algorithms/SVM/BankNote_Authentication.csv",
+    "Algorithms/SVM/Banknote extra code1.txt",
+    "Algorithms/SVM",
+    "Algorithms/Neural_Network/wine.csv",
     "images/RandomForest.png",
     "Libraries/Numpy/Numpy.md",
     "5,10,15],[20,25,30],[35,40,45.md",
-    "Summary.md",
-    "Libraries/Numpy/04-Numpy Exercises.ipynb",
-    "Libraries/Numpy/Numpy_Operations.ipynb",
-    "Libraries/Numpy/Numpy_Indexing_and_Selection.ipynb",
-    "Libraries/Numpy/Numpy Indexing and Selection.ipynb",
-    "Libraries/Numpy/Untitled.ipynb",
-    "Libraries/Numpy/Numpy_Arrays.ipynb",
-    "Libraries/Numpy/Numpy.ipynb",
-    "Libraries/Numpy",
-    "Untitled",
-    "Libraries",
     "images/bagging.png",
     "images/HyperParameterTuning.png",
     "images/min_leaf_split.png",
