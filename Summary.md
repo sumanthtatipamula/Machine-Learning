@@ -270,7 +270,10 @@
 	 7. ***Naive Bayes Classifier***
 		 1. Its a pure classifier and can't be used in regression
 		 2. It is based on Bayes theorem. It is called “naïve” due to the assumption that the features in the dataset are independent which may not be true in the real world.
-		 3. 
+		 3.  Conditional Probability: it is the probability that an event given another event has occurred.
+			 1. Given the card drawn is red. What is the probability it is an ace ? = 2 / 26
+			 2.  $P\left(\frac{Ace}{Red}\right)= p(Ace \cap Red) / P(\mathrm{Re}d)$ 
+			 3. $P(A \cap B) = P(A) * P(B)$ when A and B are independent
 			
 
         
