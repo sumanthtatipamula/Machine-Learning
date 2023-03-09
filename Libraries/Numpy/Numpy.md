@@ -67,7 +67,10 @@
 	3. arr - 100
 	4. arr / 100
 3.  Universal Array Functions
-	1. np. sq
+	1. np. sqrt(arr) - applies to each element in arr
+	2. np.max(arr) - returns max element
+	3. arr.argmax() - returns position of max element
+
 
 
 	
