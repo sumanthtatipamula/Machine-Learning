@@ -1,5 +1,5 @@
 
-# Terminologies
+## Terminologies
 
 ---
 
@@ -107,7 +107,11 @@
          2. ![TcketResolution.png](TcketResolution.png)
          3. ![Hypothesis.png](Hypothesis.png)
 
-# Algorithms
+
+## libraries
+1. [numpy](./Libraries/Numpy/Numpy.md)
+
+## Algorithms
 
  ## Supervised Learning
 	 ![[SupervisedLearning 2.png]]

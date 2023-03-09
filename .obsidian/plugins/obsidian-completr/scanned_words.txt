@@ -325,6 +325,7 @@ PbC
 Pwa
 Python
 PyData
+Position
 IHDR
 IDATx
 IU
@@ -659,6 +660,7 @@ IcSq
 IBq
 Imk
 ITvv
+Indexing
 sRGB
 sg
 svF
@@ -1015,6 +1017,17 @@ sOQ
 smf
 strictly
 still
+supports
+single
+start
+stop
+step
+specified
+spaced
+size
+shape
+slice
+slicing
 gAMA
 gb
 ge
@@ -1660,6 +1673,7 @@ pbG
 pBV
 pSS
 python
+provided
 TY
 TU
 TN
@@ -2321,6 +2335,8 @@ twh
 tleyI
 tJx
 taken
+types
+thing
 vw
 vh
 vSM
@@ -2932,6 +2948,7 @@ wMQ
 wLs
 wTO
 wna
+ways
 ZmZ
 ZJ
 ZOE
@@ -3788,6 +3805,8 @@ lhz
 lGp
 lpz
 lAnQ
+linspace
+lists
 aB
 amm
 aKx
@@ -4183,6 +4202,10 @@ aoE
 aGuGzV
 almost
 arrays
+array
+arange
+arguments
+arr
 ja
 jj
 jx
@@ -5419,6 +5442,7 @@ niQ
 ntP
 nzv
 numpy
+normal
 QC
 QD
 QL
@@ -6327,6 +6351,7 @@ mdN
 main
 matrices
 matrix
+multidimentsion
 kb
 kVv
 kTg
@@ -6929,6 +6954,12 @@ eOmy
 eMAY
 eZi
 essentially
+equally
+eye
+exclusive
+example
+element
+elements
 Vm
 Vmp
 VU
@@ -8221,6 +8252,7 @@ MgCgq
 MYZtB
 MZP
 MZCq
+Methods
 LMLQ
 LTe
 LLMY
@@ -8521,6 +8553,7 @@ Lro
 LBY
 Lzl
 Library
+Libraries
 WA
 Wxp
 WQ
@@ -9125,6 +9158,7 @@ HyRXSX
 HOrV
 HeU
 HhB
+However
 ow
 ob
 oB
@@ -9435,6 +9469,8 @@ oOc
 oxc
 oÜ
 onlt
+ones
+operatior
 Ukx
 Uu
 UjJ
@@ -10989,6 +11025,14 @@ rQT
 rKJ
 rsm
 rely
+random
+rand
+randn
+radon
+randint
+range
+return
+reshape
 AV
 AJ
 AI
@@ -11972,6 +12016,7 @@ uzY
 uxq
 uZC
 uRah
+unlike
 Rc
 RS
 RL
@@ -12533,6 +12578,7 @@ zdW
 zAm
 zII
 zEM
+zeros
 iR
 ix
 ip
@@ -12846,6 +12892,9 @@ iws
 ilr
 incredibly
 import
+inclusive
+identity
+index
 Yj
 Yq
 YH
@@ -13399,6 +13448,7 @@ Oxh
 Oru
 OkE
 OIQ
+One
 Jj
 Jm
 JU
@@ -14031,6 +14081,12 @@ dWaaA
 dlX
 dTP
 dpj
+dimension
+dimen
+distribution
+dtype
+dimensional
+don
 bAPP
 bck
 bii
@@ -14348,6 +14404,7 @@ btv
 building
 blocks
 bindings
+both
 XjPp
 Xl
 Xh
@@ -15312,6 +15369,7 @@ SSl
 Sky
 SPT
 SJM
+Selection
 ck
 cF
 ckk
@@ -15706,6 +15764,8 @@ cTr
 cih
 cXh
 ccv
+creates
+copy
 FhMr
 Fl
 FL

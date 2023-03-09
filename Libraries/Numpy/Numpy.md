@@ -35,12 +35,22 @@
     1. arr.reshape(5, 5)
 
 ## Indexing and Selection
-1.  arr  = np.arange(0, 11)
+1.  arr  = np.arange(0, 11) - One dimensional
 	1. arr[8] returns element at 9th Position or 8th Index
 	2. arr[1:] - slice operatior similar to python
 	3. arr[0:5] - return elements from 0 to 4 index.
 	4. arr[0 : 5] = 10 all the values from 0 to 4th index will be changed to 10
 		1. However same thing can't be done with python lists
 	5. By default np array slicing don't result in new copy unlike list in python
-		1. slice_of_arr = 
+		1. slice_of_arr = arr[0:6]
+		2. slice_of_arr[:] = 99
+		3. In both arr and slice_of_arr values from 0 to 5th Index are changed to 99
+	6. To get copy of np array
+		1. arr.copy()
+2.  `arr_2d = np.array([[5,10,15],[20,25,30],[35,40,45]])`
+	1. Indexing can be done in 2 ways
+		1. just like in python `arr_2d[1][2]
+		2. 
+	
+
 
