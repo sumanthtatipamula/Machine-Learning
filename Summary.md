@@ -313,6 +313,7 @@
 		 10.  Output layer function
 			 1. *for regression*: output activation function is identity = so what input it recieves same is the output.
 			 2. *for binary classification* : activation function is sigmoid whose value lies between 0 and 1
+			 3. *Multi class classfication*: (3 class)
 		 11.  Perform as many epochs as possible till error is no longer reducing. 1 epoh is equivalent to one forward and one backward propagation.
 	 10. In classification Boosting
 		 1. Ada Boost
