@@ -300,6 +300,9 @@
 	 9. ***Artificial Neural networks***
 		 1.  How manu neurons chosen in hidden layer is hyper parameter.
 		 2. A random weight is assigned during initialization to each line except the final output.
+		 3. Each neuron has input and a function that generates output.
+		 4. Input recived by neuron is $\sum^{k = 1}_{n} I_{{k}}W_{{k}}$ W is random weight.
+		 5. Bias Inputs is like $b_{0}$ in other algorithms
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
