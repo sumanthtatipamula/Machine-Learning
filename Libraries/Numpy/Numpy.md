@@ -33,3 +33,14 @@
     2. arr.max()
 13. reshape - to reshape the array(for example 1d to 2d)
     1. arr.reshape(5, 5)
+
+## Indexing and Selection
+1.  arr  = np.arange(0, 11)
+	1. arr[8] returns element at 9th Position or 8th Index
+	2. arr[1:] - slice operatior similar to python
+	3. arr[0:5] - return elements from 0 to 4 index.
+	4. arr[0 : 5] = 10 all the values from 0 to 4th index will be changed to 10
+		1. However same thing can't be done with python lists
+	5. By default np array slicing don't result in new copy unlike list in python
+		1. slice_of_arr = 
+
