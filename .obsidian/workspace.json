@@ -164,6 +164,7 @@
   },
   "active": "83208caf65535b07",
   "lastOpenFiles": [
+    "Libraries/Numpy/04-Numpy Exercises.ipynb",
     "Libraries/Numpy/Numpy_Operations.ipynb",
     "Libraries/Numpy/Numpy_Indexing_and_Selection.ipynb",
     "Libraries/Numpy/Numpy Indexing and Selection.ipynb",
@@ -183,7 +184,6 @@
     "images/min_sample_split.png",
     "Pasted image 20230308162745.png",
     "images/DecisionTreeFit.png",
-    "Algorithms/Decision_Tree/~$edit_tree_1.dot",
     "images/SplitonNumeric.png",
     "images/TreeConstructWithEncoding.png",
     "images/CategoricalEncoding.png",
