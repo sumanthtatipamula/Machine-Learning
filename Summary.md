@@ -311,7 +311,7 @@
 		 8. Selected activation funcion is applied to all hidden layer neurons.
 		 9. How many hidden layers is also a hyper parameter.
 		 10.  Output layer function
-			 1. 
+		 11.  Perform as many epochs as possible till error is no longer reducing. 1 epoh is equivalent to one forward and one backward propagation.
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
