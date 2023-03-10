@@ -369,7 +369,24 @@
 3. Principal Component Analysis
 	1. Reduce the dimensionality of a data set consisting of a large number of interrelated variables.
 	2. Transforming variables into a new set of variables, called the principal components (PCs). PCs are uncorrelated, and are ordered so that the first few retain most of the variation present in all of the original variables
+
+
+![[Pasted image 20230310173905.png]]
 	
-			
+	•	DEEP LEARNING
+•	Recommender Systems
+
+•	Ensemble Techniques – Ada boosting, Gradient Boosting, XG Boosting
+
+•	ROC curve / AUC
+•	Strategies for handling imbalanced data (change probability cut-off, over sampling(SMOTE), under sampling)
+•	Regression – Assumptions related topics (Multicollinearity,  VIF, Assumptions about Errors. Log Transformation on  Xs)
+•	Feature Selection with SFS
+•	AutoML
+•	Data transformation: Log Transformation
+•	Pipelines (for techie - implementation)
+•	Random forest – regression
+•	 (….and exploring algorithms in further details)
+![[Pasted image 20230310174114.png]]		
 
         

@@ -11,9 +11,11 @@
             "id": "b43b98e09cc1e6dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Rigde_and_Lasso.pdf"
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Rigde_and_Lasso.pdf",
+                "file": "Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Rigde_and_Lasso.pdf",
+                "file": "Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Rigde_and_Lasso.pdf"
+                "file": "Summary.md"
               }
             }
           },
@@ -174,9 +176,11 @@
   },
   "active": "b43b98e09cc1e6dc",
   "lastOpenFiles": [
+    "Pasted image 20230310174114.png",
+    "Pasted image 20230310173905.png",
+    "Notes/Rigde_and_Lasso.pdf",
     "Summary.md",
     "images/dendogram.png",
-    "Notes/Rigde_and_Lasso.pdf",
     "Notes/Unsupervised Learning.pdf",
     "Algorithms/Neural_Network/ANN Homework/ANN-Pima-Homework.ipynb",
     "Algorithms/Neural_Network/ANN Homework/pima_diabetes.csv",
@@ -196,7 +200,6 @@
     "images/RandomForest.png",
     "Libraries/Numpy/Numpy.md",
     "5,10,15],[20,25,30],[35,40,45.md",
-    "images/bagging.png",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
