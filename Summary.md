@@ -356,6 +356,8 @@
 			5. Repeat above 2 steps until no points assignments change take place or fixed number of iterations.
 		5. How to determine K 
 			1. A simple strategy is to compute a clustering for various values of K and choose the best one.
+			2. Measure the quality of a clustering by distance of points cluster centers. It is called Inertia in python.
+			3. 
 		6. How to determine intial centroid.
 	
 			
