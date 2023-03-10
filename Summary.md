@@ -347,7 +347,13 @@
 	4. K means Clustering
 		1. It is a partitioning Clustering
 		2. Widely used in Data mining
-		3. 
+		3. K means no.of clusters and it is a hyper parameter.
+		4. Algorithm:
+			1. It is an iterative clustering algorithm
+			2. Pick K random points as cluster centers(C1, C2, .. CK)
+			3. Form K clusters by assigning all data points to closest centroid.
+			4. Recompute centroid of each cluster
+			5. Repeat above 2 steps until no points assignments change take place or fixed number of iterations.
 	
 			
 
