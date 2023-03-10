@@ -337,6 +337,17 @@
 	1. We are not interested in prediction. The model is not provided with the correct results during the training
 	2. The goal is to discover interesting things about data
 2. Clustering
+	1. A technique to organize unlabeled data into similar subgroups. It is a techniques of discovering subgroups, or clusters, in a dataset.
+	2. A good cluster shall have high 
+		1. Intra-class similarity: Similarity between objects in same cluster 
+		2. Inter-class dissimilarity: dissimilarity between objects in different clusters
+	3. Types of clustering
+		1. Hierarchical Clustering
+		2. Partitioning Clustering
+	4. K means Clustering
+		1. It is a partitioning Clustering
+		2. Widely used in Data mining
+		3. 
 	
 			
 
