@@ -331,6 +331,13 @@
 	 13. Time Series
 	 14. Recommendation Engines
 	 15. Reinforcement Learning
+
+## Unsupervised learning
+1.  Intro
+	1. We are not interested in prediction. The model is not provided with the correct results during the training
+	2. The goal is to discover interesting things about data
+2. Clustering
+	
 			
 
         
