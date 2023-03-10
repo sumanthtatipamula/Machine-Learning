@@ -363,7 +363,7 @@
 		6. How to determine initial centroid.
 			1. Scikit-learn has implemented K-mean++ for initial centroid. It initializes centroids to be distant to one another which leads to better results for 10 times.
 		7. Perform clustering using only meaningful columns(i.e based on subjective decision what we want to understand about data/ based on what characteristics we want to segment the customers).
-		8. Typically done using numeric X
+		8. Typically done using numeric X's
 	
 			
 
