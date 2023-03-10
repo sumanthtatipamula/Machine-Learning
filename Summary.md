@@ -366,6 +366,9 @@
 		8. Typically done using numeric X's
 	5. Hierarchical clustering
 		1. ![[dendogram.png]]
+3. Principal Component Analysis
+	1. Reduce the dimensionality of a data set consisting of a large number of interrelated variables.
+	2. Transforming variables into a new set of variables, called the principal components (PCs). PCs are uncorrelated, and are ordered so that the first few retain most of the variation present in all of the original variables
 	
 			
 
