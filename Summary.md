@@ -354,6 +354,9 @@
 			3. Form K clusters by assigning all data points to closest centroid.
 			4. Recompute centroid of each cluster
 			5. Repeat above 2 steps until no points assignments change take place or fixed number of iterations.
+		5. How to determine K 
+			1. A simple strategy is to compute a clustering for various values of K and choose the best one.
+		6. How to determine intial centroid.
 	
 			
 
