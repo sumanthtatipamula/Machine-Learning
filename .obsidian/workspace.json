@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "406d6fb754513e76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eab21b739443f92b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Artificial Neural Network.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +158,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b43b98e09cc1e6dc",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
     "Algorithms/Neural_Network/ANN Homework/ANN-Pima-Homework.ipynb",
     "Algorithms/Neural_Network/ANN Homework/pima_diabetes.csv",
