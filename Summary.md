@@ -359,8 +359,10 @@
 			2. Measure the quality of a clustering by distance of points cluster centers. It is called Inertia in python.
 			3. WCSS  vs K graph is called eblow plot or screen plot.
 				1. Use elbow chart method to determine value of K where benefit doesn’t increase by “much” by increasing the value of K.
+			4. **silhouette score**  - need ot be explored.
 		6. How to determine initial centroid.
-			1. 
+			1. Scikit-learn has implemented K-mean++ for initial centroid. It initializes centroids to be distant to one another which leads to better results for 10 times.
+			2. 
 	
 			
 
