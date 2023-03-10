@@ -397,6 +397,8 @@ Pick
 PlG
 PbQ
 PVQ
+Principal
+PCs
 IHDR
 IDATx
 IU
@@ -2136,6 +2138,8 @@ pyx
 pyL
 pal
 pdX
+principal
+present
 TY
 TU
 TN
@@ -2563,6 +2567,7 @@ Twf
 TeD
 Thc
 Typically
+Transforming
 tH
 tl
 tN
@@ -4912,6 +4917,7 @@ lfj
 lauM
 lkd
 leads
+large
 aB
 amm
 aKx
@@ -6628,6 +6634,7 @@ CaX
 CtZ
 CCt
 Civ
+Component
 nGA
 nM
 ns
@@ -12182,6 +12189,8 @@ objects
 ocS
 oLH
 oZq
+ordered
+original
 Ukx
 Uu
 UjJ
@@ -14207,6 +14216,7 @@ rMd
 rtO
 rJGm
 rssq
+retain
 AV
 AJ
 AI
@@ -14617,6 +14627,7 @@ APN
 AlxjO
 AHr
 ANN
+Analysis
 Bf
 BB
 Bm
@@ -15427,6 +15438,7 @@ uRp
 uOoEi
 uuW
 ucP
+uncorrelated
 Rc
 RS
 RL
@@ -15812,6 +15824,7 @@ RSL
 RCc
 ReP
 RKo
+Reduce
 zjP
 zq
 zPPp
@@ -16611,6 +16624,7 @@ izd
 ijvv
 implemented
 initializes
+interrelated
 Yj
 Yq
 YH
@@ -18205,6 +18219,7 @@ dgMA
 dRg
 dddX
 distant
+dimensionality
 bAPP
 bck
 bii
@@ -20355,6 +20370,8 @@ cyH
 centroids
 characteristics
 customers
+consisting
+components
 FhMr
 Fl
 FL
