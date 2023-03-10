@@ -357,8 +357,10 @@
 		5. How to determine K 
 			1. A simple strategy is to compute a clustering for various values of K and choose the best one.
 			2. Measure the quality of a clustering by distance of points cluster centers. It is called Inertia in python.
-			3. 
-		6. How to determine intial centroid.
+			3. WCSS  vs K graph is called eblow plot or screen plot.
+				1. Use elbow chart method to determine value of K where benefit doesn’t increase by “much” by increasing the value of K.
+		6. How to determine initial centroid.
+			1. 
 	
 			
 

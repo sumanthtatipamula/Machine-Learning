@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "808796263fe32145",
@@ -177,8 +176,9 @@
   },
   "active": "b43b98e09cc1e6dc",
   "lastOpenFiles": [
-    "Notes/Unsupervised Learning.pdf",
+    "Notes/Rigde_and_Lasso.pdf",
     "Summary.md",
+    "Notes/Unsupervised Learning.pdf",
     "Algorithms/Neural_Network/ANN Homework/ANN-Pima-Homework.ipynb",
     "Algorithms/Neural_Network/ANN Homework/pima_diabetes.csv",
     "Algorithms/Neural_Network/ANN Homework",
@@ -188,7 +188,6 @@
     "Algorithms/EXTRA_Pickle/pima_diabetes.csv",
     "Algorithms/EXTRA_Pickle/Logit_model-1.sav",
     "Algorithms/EXTRA_Pickle/2-Pickle_Use_model_LogR_Pima_Diabetes-MinCode.ipynb",
-    "Algorithms/EXTRA_Pickle/1-Pickle_Create_model_LogR_Pima_Diabetes.ipynb",
     "images/neuralnetworkfit.png",
     "images/outputlayerneuron.png",
     "images/BayesAlgorithms.png",
