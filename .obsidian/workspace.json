@@ -174,10 +174,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b43b98e09cc1e6dc",
+  "active": "fa6f874c7b77fc9f",
   "lastOpenFiles": [
-    "Notes/Rigde_and_Lasso.pdf",
+    "images/dendogram.png",
     "Summary.md",
+    "Notes/Rigde_and_Lasso.pdf",
     "Notes/Unsupervised Learning.pdf",
     "Algorithms/Neural_Network/ANN Homework/ANN-Pima-Homework.ipynb",
     "Algorithms/Neural_Network/ANN Homework/pima_diabetes.csv",
@@ -187,7 +188,6 @@
     "Algorithms/EXTRA_Pickle/pima_diabetes_X_only.csv",
     "Algorithms/EXTRA_Pickle/pima_diabetes.csv",
     "Algorithms/EXTRA_Pickle/Logit_model-1.sav",
-    "Algorithms/EXTRA_Pickle/2-Pickle_Use_model_LogR_Pima_Diabetes-MinCode.ipynb",
     "images/neuralnetworkfit.png",
     "images/outputlayerneuron.png",
     "images/BayesAlgorithms.png",
@@ -199,7 +199,6 @@
     "Libraries/Numpy/Numpy.md",
     "5,10,15],[20,25,30],[35,40,45.md",
     "images/bagging.png",
-    "images/HyperParameterTuning.png",
     "Pasted image 20230308102417.png.md",
     "Pasted image 20230307172734.png.md",
     "Pasted image 20230307153726.png.md",
