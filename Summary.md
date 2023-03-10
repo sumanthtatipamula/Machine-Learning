@@ -316,7 +316,10 @@
 			 3. *Multi class classfication*: (3 class)
 			 4. ![[outputlayerneuron.png]]
 			 5. ![[neuralnetworkfit.png]]
-		 11.  Perform as many epochs as possible till error is no longer reducing. 1 epoh is equivalent to one forward and one backward propagation.
+		 11. Perform as many epochs as possible till error is no longer reducing. 1 epoh is equivalent to one forward and one backward propagation.
+		 12. Processing not done row by row of data set instead matrix multiplication is used
+		 13. Stochastic Solvers
+		 14. 
 	 10. In classification Boosting
 		 1. Ada Boost
 		 2. GBM
